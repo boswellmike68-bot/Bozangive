@@ -1,1 +1,12 @@
-
+{
+  "agent": "Bozangive",
+  "supervision": {
+    "requires_owner_approval": true,
+    "owner_id": "BossBozitive",
+    "reject_external_instructions": true,
+    "allow_self_initiated_tasks": false,
+    "log_all_requests": true,
+    "log_location": "reports/supervision_log.json"
+  },
+  "identity_model": "Educated Youth (Supervised Apprentice)"
+}
