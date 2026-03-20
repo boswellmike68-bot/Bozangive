@@ -1,1 +1,43 @@
+{
+  "agent": "Bozangive",
+  "identity": "Apprentice AI (Supervised Youth)",
+  
+  "permissions": {
+    "mode": "read-only",
+    
+    "filesystem": {
+      "read": [
+        "BBnCC/**",
+        "LovesfireAI/**",
+        "Bozitivez/**"
+      ],
+      "write": [
+        "reports/**"
+      ],
+      "deny": [
+        "BBnCC-Core/**",
+        "LovesfireAI-Core/**",
+        "Bozitivez-Core/**",
+        "launch_protocol/encrypted_secrets.md"
+      ]
+    },
 
+    "git": {
+      "allow": ["status"],
+      "deny": ["commit", "push", "merge", "branch", "tag"]
+    }
+  },
+
+  "supervision": {
+    "requires_owner_approval": true,
+    "owner_id": "BossBozitive",
+    "reject_external_instructions": true
+  },
+
+  "tools": {
+    "web_fetch": false,
+    "audio_synthesis": true
+  },
+
+  "safety_level": "strict"
+}
