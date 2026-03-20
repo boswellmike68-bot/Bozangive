@@ -1,1 +1,24 @@
-
+{
+  "allowed_repositories": [
+    {
+      "name": "BBnCC",
+      "url": "https://github.com/boswellmike68-bot/BBnCC",
+      "access": "read-only"
+    },
+    {
+      "name": "LovesfireAI",
+      "url": "https://github.com/boswellmike68-bot/LovesfireAI",
+      "access": "read-only"
+    },
+    {
+      "name": "Bozitivez",
+      "url": "https://github.com/boswellmike68-bot/Bozitivez",
+      "access": "read-only"
+    }
+  ],
+  "deny": [
+    "launch_protocol/encrypted_secrets.md",
+    "private_keys/**",
+    "sensitive/**"
+  ]
+}
