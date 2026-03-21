@@ -1,0 +1,31 @@
+Bozangive/
+│
+├── .gitignore
+│     └─ Standard Node/JS ignore rules (Initial commit)
+│
+├── LICENSE
+│     └─ MIT License (Initial commit)
+│
+├── README.md
+│     └─ Project description:
+│         "My personal AI apprentice created for the purpose of gathering file contents for analysis."
+│
+├── config/
+│     └── repos.json
+│           └─ Repository configuration data
+│
+├── core/
+│     └── taskRouter.js
+│           └─ Routes incoming tasks to appropriate internal handlers
+│
+├── github/
+│     └── summaryGenerator.js
+│           └─ Generates summaries of GitHub content
+│
+├── integration/
+│     └── uiAdapter.js
+│           └─ UI integration logic for external interfaces
+│
+└── reports/
+      └── systemMapGenerator.js
+            └─ Generates system maps for reporting and analysis
