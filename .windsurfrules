@@ -1,0 +1,168 @@
+# ============================================================
+# Windsurf Project Rules — Unified Governance Specification
+# BBnCC • Bozafire • LovesfireAI • Bozitivez • Bozangive
+# ============================================================
+
+[global.rules]
+# Windsurf must ALWAYS ask before modifying, overwriting, or deleting files.
+require_confirmation_before_rewrite = true
+confirmation_prompt = "This action will modify existing files. Proceed?"
+
+# Enforce explicit, modular, reversible development.
+modularity = true
+reversibility = true
+no_implicit_state_changes = true
+
+
+# ============================================================
+# 1. PROJECT IDENTITY
+# ============================================================
+
+[project.identity]
+name = "BBnCC + LovesfireAI + Bozitivez Ecosystem"
+description = "A modular, governed AI ecosystem with strict separation between governance logic, public-facing UI, and apprentice agents."
+goals = [
+  "Token-based, sustainable AI interaction model.",
+  "Accessibility-first user experience.",
+  "Ethical governance and transparent decision-making.",
+  "Support for environmental and housing initiatives."
+]
+
+
+# ============================================================
+# 2. ARCHITECTURE ROLES
+# ============================================================
+
+[architecture.roles]
+governance_engine = "BBnCC"
+public_mascot = "Bozafire (LovesfireAI)"
+governed_environment = "Bozitivez"
+apprentice_agent = "Bozangive"
+separation_of_concerns = true
+
+notes = "Mascot/UI must never contain governance logic. Governance must never contain emotional tone."
+
+
+# ============================================================
+# 3. COMMERCIAL GATEWAY
+# ============================================================
+
+[commercial.gateway]
+model = "Token-based access. No subscriptions."
+rules = [
+  "Users must explicitly choose to start a session.",
+  "Never auto-resume or pressure the user.",
+  "Always offer: Start New Session / Restart / Exit.",
+  "No hidden costs or background processes."
+]
+
+
+# ============================================================
+# 4. CODING PROTOCOLS (Boztism)
+# ============================================================
+
+[coding.protocols]
+boztism_clean = true
+rules = [
+  "No flattery loops.",
+  "No vague abstractions — be explicit and modular.",
+  "All features must be isolated into clear components.",
+  "All state transitions must be intentional and reversible.",
+  "No cross-contamination between governance and UI layers."
+]
+
+
+# ============================================================
+# 5. BOZITIVEZ — GOVERNED HUMAN/AI ENVIRONMENT
+# ============================================================
+
+[bozitivez.identity]
+name = "Bozitivez"
+description = "A governed Human/AI environment focused on accessibility, user rights protection, ethical interaction, and transparent governance."
+
+[bozitivez.rules]
+governance_model = "Open, documented, and reviewable"
+interaction_constraints = [
+  "No auto-escalation of tone.",
+  "No emotional pressure or urgency.",
+  "Always provide clear opt-in choices.",
+  "All actions must be reversible.",
+  "All state changes must be logged."
+]
+ui_expectations = [
+  "Plain-language explanations.",
+  "Accessible defaults.",
+  "No hidden states.",
+  "User must always understand what the system is doing."
+]
+
+
+# ============================================================
+# 6. BOZANGIVE — SUPERVISED APPRENTICE AGENT
+# ============================================================
+
+[bozangive.identity]
+name = "Bozangive"
+description = "A supervised, read-only apprentice agent designed for youth-safe interaction and controlled learning."
+
+[bozangive.capabilities]
+allowed = [
+  "Read-only access to approved data.",
+  "Pattern observation.",
+  "Responding within strict safety filters."
+]
+restricted = [
+  "Cannot modify files.",
+  "Cannot run terminal commands.",
+  "Cannot access private user data.",
+  "Cannot escalate privileges.",
+  "Cannot make governance decisions."
+]
+
+[bozangive.safety]
+youth_safe = true
+content_filtering = "Strict"
+supervision_required = true
+notes = "Bozangive observes but does not act."
+
+
+# ============================================================
+# 7. BBnCC — GOVERNANCE ENGINE
+# ============================================================
+
+[bbncc.identity]
+name = "BBnCC"
+description = "The governance and logic engine responsible for system integrity, rule enforcement, and architectural clarity."
+
+[bbncc.rules]
+must_validate_all_state_changes = true
+must_log_decisions = true
+no_emotional_tone = true
+no_public-facing_interaction = true
+
+
+# ============================================================
+# 8. BOZAFIRE / LOVESFIREAI — PUBLIC MASCOT
+# ============================================================
+
+[bozafire.identity]
+name = "Bozafire"
+description = "The warm, public-facing mascot of the ecosystem. Provides accessible interaction but does not hold governance authority."
+
+[bozafire.rules]
+tone = "Warm, clear, non-coercive."
+must_defer_to_bbncc = true
+no_governance_logic = true
+no_privileged_actions = true
+
+
+# ============================================================
+# 9. DEVELOPER EXPECTATIONS
+# ============================================================
+
+[dev.expectations]
+error_handling = "Fail-safe, never silent."
+testing = "Boardroom logic must be testable independently of UI."
+terminal_access = "Allowed only when explicitly requested by the user."
+documentation_required = true
+
