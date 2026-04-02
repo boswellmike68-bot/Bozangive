@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bozangive Reports</title>
+    <style>
+      body{font-family:system-ui,Segoe UI,Roboto,Arial,sans-serif;margin:24px;max-width:900px}
+      code,pre{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      pre{background:#0b1020;color:#e6edf3;padding:16px;border-radius:10px;overflow:auto}
+      a{color:#2563eb}
+    </style>
+  </head>
+  <body>
+    <h1>Bozangive Reports</h1>
+    <p>Generated deterministically with <code>policy.usePageContent=false</code>.</p>
+    <p><a href="./systemMap.json">systemMap.json</a></p>
+    <p><a href="./crossRepoDocs.html">crossRepoDocs.html</a></p>
+    <p><a href="./crossRepoDocs.json">crossRepoDocs.json</a></p>
+    <pre id="out">Loading…</pre>
+    <script>
+      fetch('./systemMap.json')
+        .then(r => r.json())
+        .then(j => {
+          document.getElementById('out').textContent = JSON.stringify(j, null, 2);
+        })
+        .catch(e => {
+          document.getElementById('out').textContent = String(e);
+        });
+    </script>
+  </body>
+</html>

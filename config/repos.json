@@ -1,6 +1,11 @@
 {
   "allowed_repositories": [
     {
+      "name": "Bozangive",
+      "url": "https://github.com/boswellmike68-bot/Bozangive",
+      "access": "read-only"
+    },
+    {
       "name": "BBnCC",
       "url": "https://github.com/boswellmike68-bot/BBnCC",
       "access": "read-only"

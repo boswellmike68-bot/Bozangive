@@ -1,7 +1,12 @@
 export function approvalGate(task, supervision) {
-  if (!supervision.requires_owner_approval) return true;
+  const requiresOwnerApproval =
+    supervision?.requires_owner_approval ??
+    supervision?.supervision?.requires_owner_approval;
+  const ownerId = supervision?.owner_id ?? supervision?.supervision?.owner_id;
 
-  if (task.approvedBy !== supervision.owner_id) {
+  if (!requiresOwnerApproval) return true;
+
+  if (task.approvedBy !== ownerId) {
     return false;
   }
 

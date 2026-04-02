@@ -6,12 +6,12 @@ import fs from "fs";
  * No external repositories are ever modified.
  */
 
-export function writeSystemMap(repo, structure) {
+export function writeSystemMap(repo, structure, options = {}) {
   const output = {
     agent: "Bozangive",
     role: "Apprentice (Read-Only)",
     repo,
-    generated_at: new Date().toISOString(),
+    generated_at: options.generated_at ?? new Date().toISOString(),
     structure
   };
 

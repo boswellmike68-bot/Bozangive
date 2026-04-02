@@ -1,6 +1,14 @@
 import { createGitHubClient } from "./githubClient.js";
 
-export async function generateSummary(repo) {
+export async function generateSummary(repo, options = {}) {
+  const usePageContent = options?.policy?.usePageContent;
+  if (usePageContent !== false) {
+    return {
+      status: "blocked",
+      reason: "policy.usePageContent must be false"
+    };
+  }
+
   const client = createGitHubClient();
   const [owner, name] = repo.split("/");
 
@@ -10,33 +18,18 @@ export async function generateSummary(repo) {
     path: ""
   });
 
-  const mdFiles = response.data.filter(item =>
-    item.name.endsWith(".md")
-  );
-
-  const summaries = [];
-
-  for (const file of mdFiles) {
-    const contentResponse = await client.rest.repos.getContent({
-      owner,
-      repo: name,
-      path: file.path
-    });
-
-    const decoded = Buffer.from(
-      contentResponse.data.content,
-      "base64"
-    ).toString("utf8");
-
-    summaries.push({
-      file: file.name,
-      summary: decoded.slice(0, 300) + "..."
-    });
-  }
+  const mdFiles = response.data
+    .filter(item => item.name.endsWith(".md"))
+    .map(item => ({
+      file: item.name,
+      path: item.path,
+      type: item.type
+    }))
+    .sort((a, b) => a.path.localeCompare(b.path));
 
   return {
     status: "ok",
     repo,
-    summaries
+    summaries: mdFiles
   };
 }

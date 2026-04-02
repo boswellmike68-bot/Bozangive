@@ -1,1 +1,259 @@
-
+{
+  "agent": "Bozangive",
+  "role": "Apprentice (Read-Only)",
+  "repo": "boswellmike68-bot/Bozangive",
+  "generated_at": "2026-03-21T16:50:00-04:00",
+  "structure": [
+    {
+      "path": ".github/",
+      "type": "dir",
+      "children": [
+        {
+          "path": ".github/workflows/",
+          "type": "dir",
+          "children": [
+            {
+              "path": ".github/workflows/pages.yml",
+              "type": "file",
+              "size": 852
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": ".gitignore",
+      "type": "file",
+      "size": 2291
+    },
+    {
+      "path": ".windsurf/",
+      "type": "dir",
+      "children": [
+        {
+          "path": ".windsurf/workflows/",
+          "type": "dir",
+          "children": [
+            {
+              "path": ".windsurf/workflows/review.md",
+              "type": "file",
+              "size": 1315
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "config/",
+      "type": "dir",
+      "children": [
+        {
+          "path": "config/permissions.json",
+          "type": "file",
+          "size": 842
+        },
+        {
+          "path": "config/repos.json",
+          "type": "file",
+          "size": 687
+        },
+        {
+          "path": "config/supervision.json",
+          "type": "file",
+          "size": 358
+        }
+      ]
+    },
+    {
+      "path": "core/",
+      "type": "dir",
+      "children": [
+        {
+          "path": "core/approvalGate.js",
+          "type": "file",
+          "size": 396
+        },
+        {
+          "path": "core/index.js",
+          "type": "file",
+          "size": 900
+        },
+        {
+          "path": "core/readOnlyGuard.js",
+          "type": "file",
+          "size": 320
+        },
+        {
+          "path": "core/taskRouter.js",
+          "type": "file",
+          "size": 3836
+        }
+      ]
+    },
+    {
+      "path": "docs/",
+      "type": "dir",
+      "children": [
+        {
+          "path": "docs/architecture.md",
+          "type": "file",
+          "size": 846
+        }
+      ]
+    },
+    {
+      "path": "github/",
+      "type": "dir",
+      "children": [
+        {
+          "path": "github/fileClassifier.js",
+          "type": "file",
+          "size": 543
+        },
+        {
+          "path": "github/githubClient.js",
+          "type": "file",
+          "size": 360
+        },
+        {
+          "path": "github/mdExtractor.js",
+          "type": "file",
+          "size": 528
+        },
+        {
+          "path": "github/repoCrawler.js",
+          "type": "file",
+          "size": 467
+        },
+        {
+          "path": "github/summaryGenerator.js",
+          "type": "file",
+          "size": 826
+        }
+      ]
+    },
+    {
+      "path": "governance.md",
+      "type": "file",
+      "size": 1792
+    },
+    {
+      "path": "integration/",
+      "type": "dir",
+      "children": [
+        {
+          "path": "integration/examples/",
+          "type": "dir",
+          "children": [
+            {
+              "path": "integration/examples/task_payload.json",
+              "type": "file",
+              "size": 613
+            }
+          ]
+        },
+        {
+          "path": "integration/sendToBBnCC.js",
+          "type": "file",
+          "size": 397
+        },
+        {
+          "path": "integration/tabContext.schema.json",
+          "type": "file",
+          "size": 505
+        },
+        {
+          "path": "integration/toneAdapter.js",
+          "type": "file",
+          "size": 308
+        },
+        {
+          "path": "integration/uiAdapter.js",
+          "type": "file",
+          "size": 1646
+        }
+      ]
+    },
+    {
+      "path": "LICENSE",
+      "type": "file",
+      "size": 1090
+    },
+    {
+      "path": "package.json",
+      "type": "file",
+      "size": 197
+    },
+    {
+      "path": "README.md",
+      "type": "file",
+      "size": 104
+    },
+    {
+      "path": "reports/",
+      "type": "dir",
+      "children": [
+        {
+          "path": "reports/bozangive_snapshot_20260321_221249.zip",
+          "type": "file",
+          "size": 17036
+        },
+        {
+          "path": "reports/crossRepoDocs.html",
+          "type": "file",
+          "size": 5125
+        },
+        {
+          "path": "reports/crossRepoDocs.json",
+          "type": "file",
+          "size": 90492
+        },
+        {
+          "path": "reports/fileSummaries.json",
+          "type": "file",
+          "size": 2
+        },
+        {
+          "path": "reports/index.html",
+          "type": "file",
+          "size": 1045
+        },
+        {
+          "path": "reports/placeholderReport.json",
+          "type": "file",
+          "size": 2
+        },
+        {
+          "path": "reports/snapshot_manifest_20260321_221249.txt",
+          "type": "file",
+          "size": 2678
+        },
+        {
+          "path": "reports/system_map.txt",
+          "type": "file",
+          "size": 962
+        },
+        {
+          "path": "reports/systemMap.json",
+          "type": "file",
+          "size": 5380
+        },
+        {
+          "path": "reports/systemMapGenerator.js",
+          "type": "file",
+          "size": 856
+        }
+      ]
+    },
+    {
+      "path": "run_doc_spectrum.js",
+      "type": "file",
+      "size": 5912
+    },
+    {
+      "path": "run_inventory.js",
+      "type": "file",
+      "size": 899
+    }
+  ]
+}

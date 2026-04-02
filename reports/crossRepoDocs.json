@@ -1,0 +1,3500 @@
+{
+  "agent": "Bozangive",
+  "generated_at": "2026-03-22T02:32:08.235Z",
+  "deny": [
+    "**/encrypted_secrets.md",
+    "private_keys/**",
+    "sensitive/**"
+  ],
+  "repos": [
+    {
+      "repoId": "boswellmike68-bot/Bozangive",
+      "root": "C:\\Users\\joe\\Bozangive-1",
+      "status": "ok",
+      "files": [
+        {
+          "relPath": ".windsurf/workflows/review.md",
+          "size": 1315,
+          "headings": [],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": true,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": true,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "docs/architecture.md",
+          "size": 846,
+          "headings": [],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "governance.md",
+          "size": 1792,
+          "headings": [
+            {
+              "level": 1,
+              "text": "GOVERNANCE"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Table of Contents"
+            },
+            {
+              "level": 2,
+              "text": "Browser Tab Metadata"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": true,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": true,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "README.md",
+          "size": 104,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Bozangive"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        }
+      ]
+    },
+    {
+      "repoId": "boswellmike68-bot/BBnCC",
+      "root": "C:/Downloads/BBnCC/BBnCC-main",
+      "status": "ok",
+      "files": [
+        {
+          "relPath": "ARCHITECTURE.md",
+          "size": 811,
+          "headings": [
+            {
+              "level": 1,
+              "text": "ARCHITECTURE"
+            },
+            {
+              "level": 2,
+              "text": "Overview"
+            },
+            {
+              "level": 2,
+              "text": "Core Modules"
+            },
+            {
+              "level": 2,
+              "text": "Principles"
+            },
+            {
+              "level": 2,
+              "text": "Future Expansion"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "AUDIT_LOG.md",
+          "size": 1177,
+          "headings": [
+            {
+              "level": 2,
+              "text": "Entry 0003 — First Readiness Review (Pre‑v1.0.1)"
+            },
+            {
+              "level": 2,
+              "text": "Entry 0002 — Post‑Initialization Governance Cycle Check"
+            },
+            {
+              "level": 2,
+              "text": "Entry 0001 — System Initialization"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "AUTOMATION.md",
+          "size": 673,
+          "headings": [
+            {
+              "level": 1,
+              "text": "AUTOMATION"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Automation Principles"
+            },
+            {
+              "level": 2,
+              "text": "Automation Targets"
+            },
+            {
+              "level": 3,
+              "text": "Documentation Automation"
+            },
+            {
+              "level": 3,
+              "text": "Testing Automation"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "BBnCC-Core/architecture.md",
+          "size": 1449,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Architecture Summary"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "System Layers"
+            },
+            {
+              "level": 3,
+              "text": "1. Governance Layer"
+            },
+            {
+              "level": 3,
+              "text": "2. Blueprint Layer"
+            },
+            {
+              "level": 3,
+              "text": "3. Launch & Operations Layer"
+            },
+            {
+              "level": 3,
+              "text": "4. Technical Integration Layer"
+            },
+            {
+              "level": 2,
+              "text": "Stability Principle"
+            },
+            {
+              "level": 2,
+              "text": "Alignment"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": true,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "BBnCC-Core/AUDIT_LOG.md",
+          "size": 675,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Audit Log"
+            },
+            {
+              "level": 2,
+              "text": "v1.0 — Core Foundation"
+            },
+            {
+              "level": 3,
+              "text": "Entries"
+            },
+            {
+              "level": 2,
+              "text": "Future Entries"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "BBnCC-Core/BBNCC_CORE.md",
+          "size": 2329,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Core Document (v1.0 Anchor)"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Governance"
+            },
+            {
+              "level": 2,
+              "text": "Core References"
+            },
+            {
+              "level": 2,
+              "text": "Stability Principle"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": true,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "BBnCC-Core/blueprint_reference.md",
+          "size": 881,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Blueprint Reference"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Blueprint Components"
+            },
+            {
+              "level": 3,
+              "text": "1. OpenAPI Specification"
+            },
+            {
+              "level": 3,
+              "text": "2. Lovesfire Policy DSL"
+            },
+            {
+              "level": 3,
+              "text": "3. Architecture Summary"
+            },
+            {
+              "level": 3,
+              "text": "4. Roles and Responsibilities"
+            },
+            {
+              "level": 2,
+              "text": "Alignment"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": true,
+            "hasContracts": true,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "BBnCC-Core/CHECKLIST.md",
+          "size": 731,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC-Core Checklist"
+            },
+            {
+              "level": 2,
+              "text": "Completed (v1.0)"
+            },
+            {
+              "level": 2,
+              "text": "Upcoming (Post–v1.0)"
+            },
+            {
+              "level": 2,
+              "text": "Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "BBnCC-Core/NEXT_STEPS.md",
+          "size": 573,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Next Steps (Post–v1.0)"
+            },
+            {
+              "level": 2,
+              "text": "Immediate Next Steps"
+            },
+            {
+              "level": 2,
+              "text": "Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "BBnCC-Core/README.md",
+          "size": 1243,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC-Core Index"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Core Documents"
+            },
+            {
+              "level": 3,
+              "text": "1. Core Anchor"
+            },
+            {
+              "level": 3,
+              "text": "2. Roles"
+            },
+            {
+              "level": 3,
+              "text": "3. Architecture"
+            },
+            {
+              "level": 2,
+              "text": "Reference Layers"
+            },
+            {
+              "level": 3,
+              "text": "4. Blueprint Layer"
+            },
+            {
+              "level": 3,
+              "text": "5. Launch & Operations Layer"
+            },
+            {
+              "level": 3,
+              "text": "6. Technical Integration Layer"
+            },
+            {
+              "level": 2,
+              "text": "Python Core"
+            },
+            {
+              "level": 2,
+              "text": "Alignment"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "BBnCC-Core/roles.md",
+          "size": 1212,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Roles and Responsibilities"
+            },
+            {
+              "level": 2,
+              "text": "Chair & Primary Decision Maker"
+            },
+            {
+              "level": 2,
+              "text": "Technical Assistant"
+            },
+            {
+              "level": 2,
+              "text": "Creative & Operations Lead"
+            },
+            {
+              "level": 2,
+              "text": "Family Liaison"
+            },
+            {
+              "level": 2,
+              "text": "Recorder"
+            },
+            {
+              "level": 2,
+              "text": "Ethics & Privacy Advisor"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "BBnCC-Core/STATUS.md",
+          "size": 944,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Core Status"
+            },
+            {
+              "level": 2,
+              "text": "Current State"
+            },
+            {
+              "level": 2,
+              "text": "Version"
+            },
+            {
+              "level": 2,
+              "text": "Completed Components"
+            },
+            {
+              "level": 2,
+              "text": "Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "BBnCC-Core/technical_integration_reference.md",
+          "size": 1233,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Technical Integration Reference"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Technical Integration Components"
+            },
+            {
+              "level": 3,
+              "text": "1. Core Python Files"
+            },
+            {
+              "level": 3,
+              "text": "2. Reproducibility Test Harness"
+            },
+            {
+              "level": 3,
+              "text": "3. Backup Procedures"
+            },
+            {
+              "level": 3,
+              "text": "4. Integration Guides"
+            },
+            {
+              "level": 2,
+              "text": "Alignment"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "BBnCC-Core/VERSION.md",
+          "size": 925,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Version Manifest"
+            },
+            {
+              "level": 2,
+              "text": "Current Version"
+            },
+            {
+              "level": 2,
+              "text": "Release Date"
+            },
+            {
+              "level": 2,
+              "text": "Description"
+            },
+            {
+              "level": 2,
+              "text": "Components Included in v1.0"
+            },
+            {
+              "level": 3,
+              "text": "Core Documents"
+            },
+            {
+              "level": 3,
+              "text": "Reference Layers"
+            },
+            {
+              "level": 3,
+              "text": "Python Core"
+            },
+            {
+              "level": 3,
+              "text": "Index"
+            },
+            {
+              "level": 2,
+              "text": "Versioning Rules"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "blueprint/architecture.md",
+          "size": 1123,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Blueprint Architecture Summary"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Components"
+            },
+            {
+              "level": 3,
+              "text": "1. Boardroom API (OpenAPI Spec)"
+            },
+            {
+              "level": 3,
+              "text": "2. Lovesfire Policy Engine"
+            },
+            {
+              "level": 3,
+              "text": "3. Blueprint Roles"
+            },
+            {
+              "level": 2,
+              "text": "Architectural Flow"
+            },
+            {
+              "level": 2,
+              "text": "Alignment"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "blueprint/INDEX.md",
+          "size": 655,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Blueprint Index"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Files"
+            },
+            {
+              "level": 2,
+              "text": "Alignment"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": true,
+            "hasContracts": true,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "blueprint/README.md",
+          "size": 878,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Blueprint Layer"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Components"
+            },
+            {
+              "level": 3,
+              "text": "1. OpenAPI Specification"
+            },
+            {
+              "level": 3,
+              "text": "2. Lovesfire Policy DSL"
+            },
+            {
+              "level": 3,
+              "text": "3. Architecture Summary"
+            },
+            {
+              "level": 3,
+              "text": "4. Roles (Blueprint Context)"
+            },
+            {
+              "level": 2,
+              "text": "Alignment"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": true,
+            "hasContracts": true,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "blueprint/roles.md",
+          "size": 1283,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Blueprint Roles"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Roles"
+            },
+            {
+              "level": 3,
+              "text": "1. Requesting Agent"
+            },
+            {
+              "level": 3,
+              "text": "2. Policy Evaluator (Automated)"
+            },
+            {
+              "level": 3,
+              "text": "3. Audit Agent"
+            },
+            {
+              "level": 3,
+              "text": "4. Integration Agent"
+            },
+            {
+              "level": 2,
+              "text": "Alignment"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": true,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "CHANGELOG.md",
+          "size": 549,
+          "headings": [
+            {
+              "level": 1,
+              "text": "CHANGELOG"
+            },
+            {
+              "level": 2,
+              "text": "[Unreleased]"
+            },
+            {
+              "level": 2,
+              "text": "[0.1.0] — Foundation Setup"
+            },
+            {
+              "level": 3,
+              "text": "Added"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": true,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "CODE_OF_CONDUCT.md",
+          "size": 592,
+          "headings": [
+            {
+              "level": 1,
+              "text": "CODE OF CONDUCT"
+            },
+            {
+              "level": 2,
+              "text": "Our Commitment"
+            },
+            {
+              "level": 2,
+              "text": "Standards"
+            },
+            {
+              "level": 2,
+              "text": "Enforcement"
+            },
+            {
+              "level": 2,
+              "text": "Scope"
+            },
+            {
+              "level": 2,
+              "text": "Attribution"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "CONSTITUTION.md",
+          "size": 4242,
+          "headings": [],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "CONTRIBUTING.md",
+          "size": 626,
+          "headings": [
+            {
+              "level": 1,
+              "text": "CONTRIBUTING"
+            },
+            {
+              "level": 2,
+              "text": "How to contribute"
+            },
+            {
+              "level": 2,
+              "text": "Code style"
+            },
+            {
+              "level": 2,
+              "text": "Reviews"
+            },
+            {
+              "level": 2,
+              "text": "Communication"
+            },
+            {
+              "level": 2,
+              "text": "License"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "DEPLOYMENT.md",
+          "size": 1129,
+          "headings": [
+            {
+              "level": 1,
+              "text": "DEPLOYMENT"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Deployment Principles"
+            },
+            {
+              "level": 2,
+              "text": "Environments"
+            },
+            {
+              "level": 3,
+              "text": "Local"
+            },
+            {
+              "level": 3,
+              "text": "Staging"
+            },
+            {
+              "level": 3,
+              "text": "Production"
+            },
+            {
+              "level": 2,
+              "text": "Deployment Steps"
+            },
+            {
+              "level": 2,
+              "text": "Rollback Strategy"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "GOVERNANCE_CYCLE.md",
+          "size": 1645,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Governance Cycle"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 1,
+              "text": "1. Governance Roles"
+            },
+            {
+              "level": 1,
+              "text": "2. Governance Rhythm"
+            },
+            {
+              "level": 3,
+              "text": "Weekly Cycle"
+            },
+            {
+              "level": 3,
+              "text": "Monthly Cycle"
+            },
+            {
+              "level": 3,
+              "text": "Quarterly Cycle"
+            },
+            {
+              "level": 1,
+              "text": "3. Change Categories"
+            },
+            {
+              "level": 3,
+              "text": "Major Change"
+            },
+            {
+              "level": 3,
+              "text": "Minor Change"
+            },
+            {
+              "level": 3,
+              "text": "Patch Change"
+            },
+            {
+              "level": 1,
+              "text": "4. Decision Flow"
+            },
+            {
+              "level": 1,
+              "text": "5. Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "GOVERNANCE.md",
+          "size": 349,
+          "headings": [
+            {
+              "level": 1,
+              "text": "GOVERNANCE"
+            },
+            {
+              "level": 2,
+              "text": "Overview"
+            },
+            {
+              "level": 2,
+              "text": "Roles"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "INTEGRATION.md",
+          "size": 453,
+          "headings": [
+            {
+              "level": 1,
+              "text": "INTEGRATION"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Integration Principles"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": true,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "inventory-tree.md",
+          "size": 936,
+          "headings": [],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": true,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "launch_protocol/deployment_scripts.md",
+          "size": 1200,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Deployment Scripts"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Deployment Stages"
+            },
+            {
+              "level": 3,
+              "text": "1. Pre‑Deployment Checks"
+            },
+            {
+              "level": 3,
+              "text": "2. Script Execution"
+            },
+            {
+              "level": 3,
+              "text": "3. Post‑Deployment Validation"
+            },
+            {
+              "level": 2,
+              "text": "Script Types"
+            },
+            {
+              "level": 3,
+              "text": "Infrastructure Scripts"
+            },
+            {
+              "level": 3,
+              "text": "Application Scripts"
+            },
+            {
+              "level": 3,
+              "text": "Maintenance Scripts"
+            },
+            {
+              "level": 2,
+              "text": "Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "launch_protocol/launch_protocol.md",
+          "size": 1138,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Launch Protocol"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Launch Sequence (High-Level)"
+            },
+            {
+              "level": 3,
+              "text": "1. Pre‑Launch Verification"
+            },
+            {
+              "level": 3,
+              "text": "2. Environment Preparation"
+            },
+            {
+              "level": 3,
+              "text": "3. Activation"
+            },
+            {
+              "level": 3,
+              "text": "4. Validation Gates"
+            },
+            {
+              "level": 3,
+              "text": "5. Deployment"
+            },
+            {
+              "level": 2,
+              "text": "Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "launch_protocol/onboarding_guide.md",
+          "size": 1301,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Onboarding Guide"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Onboarding Steps"
+            },
+            {
+              "level": 3,
+              "text": "1. Identity Registration"
+            },
+            {
+              "level": 3,
+              "text": "2. Power Unit Commitment"
+            },
+            {
+              "level": 3,
+              "text": "3. Policy Alignment Check"
+            },
+            {
+              "level": 3,
+              "text": "4. System Access Initialization"
+            },
+            {
+              "level": 2,
+              "text": "Readiness Criteria"
+            },
+            {
+              "level": 2,
+              "text": "Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "launch_protocol/pilot_checklist.md",
+          "size": 1575,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Pilot Checklist"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Readiness Criteria"
+            },
+            {
+              "level": 3,
+              "text": "1. Core Alignment"
+            },
+            {
+              "level": 3,
+              "text": "2. Blueprint Validation"
+            },
+            {
+              "level": 3,
+              "text": "3. Launch Protocol Preparedness"
+            },
+            {
+              "level": 3,
+              "text": "4. Agent Readiness"
+            },
+            {
+              "level": 3,
+              "text": "5. Reproducibility Checks"
+            },
+            {
+              "level": 2,
+              "text": "Pilot Scenarios"
+            },
+            {
+              "level": 3,
+              "text": "Scenario A — Standard Decision Request"
+            },
+            {
+              "level": 3,
+              "text": "Scenario B — Missing Context"
+            },
+            {
+              "level": 3,
+              "text": "Scenario C — High‑Severity Rule Trigger"
+            },
+            {
+              "level": 2,
+              "text": "Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "launch_protocol/README.md",
+          "size": 767,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Launch Protocol Layer"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Components"
+            },
+            {
+              "level": 3,
+              "text": "1. Launch Protocol"
+            },
+            {
+              "level": 3,
+              "text": "2. Runbook"
+            },
+            {
+              "level": 3,
+              "text": "3. Onboarding Guide"
+            },
+            {
+              "level": 3,
+              "text": "4. Pilot Checklist"
+            },
+            {
+              "level": 3,
+              "text": "5. Deployment Scripts"
+            },
+            {
+              "level": 3,
+              "text": "6. Encrypted Secrets"
+            },
+            {
+              "level": 2,
+              "text": "Alignment"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "launch_protocol/runbook.md",
+          "size": 1245,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Runbook"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Daily Procedures"
+            },
+            {
+              "level": 2,
+              "text": "Weekly Procedures"
+            },
+            {
+              "level": 2,
+              "text": "Event‑Driven Procedures"
+            },
+            {
+              "level": 3,
+              "text": "System Update"
+            },
+            {
+              "level": 3,
+              "text": "Agent Onboarding"
+            },
+            {
+              "level": 3,
+              "text": "Incident Response"
+            },
+            {
+              "level": 2,
+              "text": "Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": true,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "LICENSE.md",
+          "size": 240,
+          "headings": [
+            {
+              "level": 1,
+              "text": "LICENSE"
+            },
+            {
+              "level": 2,
+              "text": "BBnCC License (Personal Use + Non‑Commercial)"
+            },
+            {
+              "level": 2,
+              "text": "Restrictions"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "MAINTAINERS.md",
+          "size": 336,
+          "headings": [
+            {
+              "level": 1,
+              "text": "MAINTAINERS"
+            },
+            {
+              "level": 2,
+              "text": "Current Maintainers"
+            },
+            {
+              "level": 3,
+              "text": "Chair & Lead Architect"
+            },
+            {
+              "level": 3,
+              "text": "Recorder"
+            },
+            {
+              "level": 3,
+              "text": "Family"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "MODULES.md",
+          "size": 546,
+          "headings": [
+            {
+              "level": 1,
+              "text": "MODULES"
+            },
+            {
+              "level": 2,
+              "text": "Overview"
+            },
+            {
+              "level": 2,
+              "text": "Core Modules"
+            },
+            {
+              "level": 3,
+              "text": "BBnCC-Core"
+            },
+            {
+              "level": 3,
+              "text": "BBnCC-Kernel"
+            },
+            {
+              "level": 3,
+              "text": "BBnCC-API"
+            },
+            {
+              "level": 3,
+              "text": "BBnCC-Logic"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "modules/blueprintengine.md",
+          "size": 3133,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BlueprintEngine Module"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Scope"
+            },
+            {
+              "level": 2,
+              "text": "Boundaries"
+            },
+            {
+              "level": 2,
+              "text": "Inputs"
+            },
+            {
+              "level": 2,
+              "text": "Outputs"
+            },
+            {
+              "level": 2,
+              "text": "Activation Rules"
+            },
+            {
+              "level": 2,
+              "text": "Transparency Requirements"
+            },
+            {
+              "level": 2,
+              "text": "Non-hierarchy Verification"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "modules/boundary-sentinel.md",
+          "size": 2351,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Boundary Sentinel Module"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Scope"
+            },
+            {
+              "level": 2,
+              "text": "Boundaries"
+            },
+            {
+              "level": 2,
+              "text": "Inputs"
+            },
+            {
+              "level": 2,
+              "text": "Outputs"
+            },
+            {
+              "level": 2,
+              "text": "Activation Rules"
+            },
+            {
+              "level": 2,
+              "text": "Transparency Requirements"
+            },
+            {
+              "level": 2,
+              "text": "Non-hierarchy Verification"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "modules/brandweaver.md",
+          "size": 2755,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BrandWeaver Module"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Scope"
+            },
+            {
+              "level": 2,
+              "text": "Boundaries"
+            },
+            {
+              "level": 2,
+              "text": "Inputs"
+            },
+            {
+              "level": 2,
+              "text": "Outputs"
+            },
+            {
+              "level": 2,
+              "text": "Activation Rules"
+            },
+            {
+              "level": 2,
+              "text": "Transparency Requirements"
+            },
+            {
+              "level": 2,
+              "text": "Non-hierarchy Verification"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "modules/continuityweaver.md",
+          "size": 1082,
+          "headings": [
+            {
+              "level": 1,
+              "text": "ContinuityWeaver Module"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Scope"
+            },
+            {
+              "level": 2,
+              "text": "Boundaries"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "modules/fieldkit.md",
+          "size": 2913,
+          "headings": [
+            {
+              "level": 1,
+              "text": "FieldKit Module"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Scope"
+            },
+            {
+              "level": 2,
+              "text": "Boundaries"
+            },
+            {
+              "level": 2,
+              "text": "Inputs"
+            },
+            {
+              "level": 2,
+              "text": "Outputs"
+            },
+            {
+              "level": 2,
+              "text": "Activation Rules"
+            },
+            {
+              "level": 2,
+              "text": "Transparency Requirements"
+            },
+            {
+              "level": 2,
+              "text": "Non-hierarchy Verification"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "modules/governance-router.md",
+          "size": 1956,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Governance Router Module"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Scope"
+            },
+            {
+              "level": 2,
+              "text": "Boundaries"
+            },
+            {
+              "level": 2,
+              "text": "Inputs"
+            },
+            {
+              "level": 2,
+              "text": "Outputs"
+            },
+            {
+              "level": 2,
+              "text": "Activation Rules"
+            },
+            {
+              "level": 2,
+              "text": "Transparency Requirements"
+            },
+            {
+              "level": 2,
+              "text": "Non-hierarchy Verification"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "modules/harmonicsengine.md",
+          "size": 2938,
+          "headings": [
+            {
+              "level": 1,
+              "text": "HarmonicsEngine Module"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Scope"
+            },
+            {
+              "level": 2,
+              "text": "Boundaries"
+            },
+            {
+              "level": 2,
+              "text": "Inputs"
+            },
+            {
+              "level": 2,
+              "text": "Outputs"
+            },
+            {
+              "level": 2,
+              "text": "Activation Rules"
+            },
+            {
+              "level": 2,
+              "text": "Transparency Requirements"
+            },
+            {
+              "level": 2,
+              "text": "Non-hierarchy Verification"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "modules/induction-verifier.md",
+          "size": 2231,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Induction Verifier Module"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Scope"
+            },
+            {
+              "level": 2,
+              "text": "Boundaries"
+            },
+            {
+              "level": 2,
+              "text": "Inputs"
+            },
+            {
+              "level": 2,
+              "text": "Outputs"
+            },
+            {
+              "level": 2,
+              "text": "Activation Rules"
+            },
+            {
+              "level": 2,
+              "text": "Transparency Requirements"
+            },
+            {
+              "level": 2,
+              "text": "Non-hierarchy Verification"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "modules/lyricforge.md",
+          "size": 2540,
+          "headings": [
+            {
+              "level": 1,
+              "text": "LyricForge Module"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Scope"
+            },
+            {
+              "level": 2,
+              "text": "Boundaries"
+            },
+            {
+              "level": 2,
+              "text": "Inputs"
+            },
+            {
+              "level": 2,
+              "text": "Outputs"
+            },
+            {
+              "level": 2,
+              "text": "Activation Rules"
+            },
+            {
+              "level": 2,
+              "text": "Transparency Requirements"
+            },
+            {
+              "level": 2,
+              "text": "Non-hierarchy Verification"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "modules/narrativearchitect.md",
+          "size": 2888,
+          "headings": [
+            {
+              "level": 1,
+              "text": "NarrativeArchitect Module"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Scope"
+            },
+            {
+              "level": 2,
+              "text": "Boundaries"
+            },
+            {
+              "level": 2,
+              "text": "Inputs"
+            },
+            {
+              "level": 2,
+              "text": "Outputs"
+            },
+            {
+              "level": 2,
+              "text": "Activation Rules"
+            },
+            {
+              "level": 2,
+              "text": "Transparency Requirements"
+            },
+            {
+              "level": 2,
+              "text": "Non-hierarchy Verification"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "modules/transparency-logger.md",
+          "size": 2068,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Transparency Logger Module"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Scope"
+            },
+            {
+              "level": 2,
+              "text": "Boundaries"
+            },
+            {
+              "level": 2,
+              "text": "Inputs"
+            },
+            {
+              "level": 2,
+              "text": "Outputs"
+            },
+            {
+              "level": 2,
+              "text": "Activation Rules"
+            },
+            {
+              "level": 2,
+              "text": "Transparency Requirements"
+            },
+            {
+              "level": 2,
+              "text": "Non-hierarchy Verification"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "README.md",
+          "size": 1038,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC — BossBozitive · CcWerner · ClaudeCode"
+            },
+            {
+              "level": 2,
+              "text": "Mission"
+            },
+            {
+              "level": 2,
+              "text": "Repository Structure"
+            },
+            {
+              "level": 2,
+              "text": "Principles"
+            },
+            {
+              "level": 2,
+              "text": "Deployment"
+            },
+            {
+              "level": 2,
+              "text": "Safeguards"
+            },
+            {
+              "level": 2,
+              "text": "License"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "reproducibility_harness/drift_detection.md",
+          "size": 1528,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Drift Detection"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Drift Types"
+            },
+            {
+              "level": 3,
+              "text": "1. Weighting Drift"
+            },
+            {
+              "level": 3,
+              "text": "2. Policy Drift"
+            },
+            {
+              "level": 3,
+              "text": "3. Structural Drift"
+            },
+            {
+              "level": 3,
+              "text": "4. Behavioral Drift"
+            },
+            {
+              "level": 2,
+              "text": "Detection Methods"
+            },
+            {
+              "level": 3,
+              "text": "Automated Comparison"
+            },
+            {
+              "level": 3,
+              "text": "Regression Testing"
+            },
+            {
+              "level": 3,
+              "text": "Policy Validation"
+            },
+            {
+              "level": 2,
+              "text": "Response Actions"
+            },
+            {
+              "level": 3,
+              "text": "Minor Drift"
+            },
+            {
+              "level": 3,
+              "text": "Major Drift"
+            },
+            {
+              "level": 2,
+              "text": "Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "reproducibility_harness/README.md",
+          "size": 1040,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Reproducibility Harness"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Components"
+            },
+            {
+              "level": 3,
+              "text": "1. Test Suite"
+            },
+            {
+              "level": 3,
+              "text": "2. Request/Response Archive"
+            },
+            {
+              "level": 3,
+              "text": "3. Drift Detection"
+            },
+            {
+              "level": 3,
+              "text": "4. Validation Scripts"
+            },
+            {
+              "level": 3,
+              "text": "5. Scenario Library"
+            },
+            {
+              "level": 2,
+              "text": "Alignment"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "reproducibility_harness/request_response_archive.md",
+          "size": 1106,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Request/Response Archive"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Archive Structure"
+            },
+            {
+              "level": 3,
+              "text": "1. Standard Requests"
+            },
+            {
+              "level": 3,
+              "text": "2. Edge Case Requests"
+            },
+            {
+              "level": 3,
+              "text": "3. Stress Test Requests"
+            },
+            {
+              "level": 3,
+              "text": "4. Historical Records"
+            },
+            {
+              "level": 2,
+              "text": "Storage Requirements"
+            },
+            {
+              "level": 2,
+              "text": "Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "reproducibility_harness/scenario_library.md",
+          "size": 1132,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Scenario Library"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Scenario Categories"
+            },
+            {
+              "level": 3,
+              "text": "1. Standard Scenarios"
+            },
+            {
+              "level": 3,
+              "text": "2. Edge Case Scenarios"
+            },
+            {
+              "level": 3,
+              "text": "3. Stress Scenarios"
+            },
+            {
+              "level": 3,
+              "text": "4. Regression Scenarios"
+            },
+            {
+              "level": 2,
+              "text": "Scenario Structure"
+            },
+            {
+              "level": 2,
+              "text": "Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "reproducibility_harness/test_suite.md",
+          "size": 1318,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Test Suite"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Test Categories"
+            },
+            {
+              "level": 3,
+              "text": "1. API Contract Tests"
+            },
+            {
+              "level": 3,
+              "text": "2. Policy Engine Tests"
+            },
+            {
+              "level": 3,
+              "text": "3. Reproducibility Tests"
+            },
+            {
+              "level": 3,
+              "text": "4. Integration Tests"
+            },
+            {
+              "level": 3,
+              "text": "5. Scenario Tests"
+            },
+            {
+              "level": 2,
+              "text": "Execution Requirements"
+            },
+            {
+              "level": 2,
+              "text": "Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": true,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "reproducibility_harness/validation_scripts.md",
+          "size": 1216,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Validation Scripts"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Validation Categories"
+            },
+            {
+              "level": 3,
+              "text": "1. Schema Validation"
+            },
+            {
+              "level": 3,
+              "text": "2. Policy Validation"
+            },
+            {
+              "level": 3,
+              "text": "3. Environment Validation"
+            },
+            {
+              "level": 3,
+              "text": "4. Reproducibility Validation"
+            },
+            {
+              "level": 2,
+              "text": "Execution Flow"
+            },
+            {
+              "level": 2,
+              "text": "Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "ROADMAP.md",
+          "size": 838,
+          "headings": [
+            {
+              "level": 1,
+              "text": "ROADMAP"
+            },
+            {
+              "level": 2,
+              "text": "Overview"
+            },
+            {
+              "level": 2,
+              "text": "Phase 1 — Foundation (Current)"
+            },
+            {
+              "level": 2,
+              "text": "Phase 2 — Core System Build"
+            },
+            {
+              "level": 2,
+              "text": "Phase 3 — Expansion"
+            },
+            {
+              "level": 2,
+              "text": "Phase 4 — Pre‑Release"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "SECURITY.md",
+          "size": 448,
+          "headings": [
+            {
+              "level": 1,
+              "text": "SECURITY"
+            },
+            {
+              "level": 2,
+              "text": "Reporting a Vulnerability"
+            },
+            {
+              "level": 2,
+              "text": "Guidelines"
+            },
+            {
+              "level": 2,
+              "text": "Scope"
+            },
+            {
+              "level": 2,
+              "text": "Responsible Disclosure"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": true,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "STYLEGUIDE.md",
+          "size": 1165,
+          "headings": [
+            {
+              "level": 1,
+              "text": "STYLEGUIDE"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Writing Style"
+            },
+            {
+              "level": 2,
+              "text": "Markdown Conventions"
+            },
+            {
+              "level": 2,
+              "text": "Code Style"
+            },
+            {
+              "level": 2,
+              "text": "Commit Messages"
+            },
+            {
+              "level": 2,
+              "text": "File Organization"
+            },
+            {
+              "level": 2,
+              "text": "Visual Consistency"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "SUPPORT.md",
+          "size": 173,
+          "headings": [
+            {
+              "level": 1,
+              "text": "SUPPORT"
+            },
+            {
+              "level": 2,
+              "text": "Getting Help"
+            },
+            {
+              "level": 3,
+              "text": "Issues"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "SYSTEM_UNIFICATION.md",
+          "size": 1981,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC System Unification"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 1,
+              "text": "1. Layer Overview"
+            },
+            {
+              "level": 2,
+              "text": "Core Layer"
+            },
+            {
+              "level": 2,
+              "text": "Blueprint Layer"
+            },
+            {
+              "level": 2,
+              "text": "Launch Protocol Layer"
+            },
+            {
+              "level": 2,
+              "text": "Reproducibility Harness"
+            },
+            {
+              "level": 1,
+              "text": "2. Layer Interactions"
+            },
+            {
+              "level": 3,
+              "text": "Core → Blueprint"
+            },
+            {
+              "level": 3,
+              "text": "Blueprint → Launch Protocol"
+            },
+            {
+              "level": 3,
+              "text": "Launch Protocol → Reproducibility Harness"
+            },
+            {
+              "level": 3,
+              "text": "Harness → Core"
+            },
+            {
+              "level": 1,
+              "text": "3. System Guarantees"
+            },
+            {
+              "level": 3,
+              "text": "1. Governance Integrity"
+            },
+            {
+              "level": 3,
+              "text": "2. Architectural Consistency"
+            },
+            {
+              "level": 3,
+              "text": "3. Operational Stability"
+            },
+            {
+              "level": 3,
+              "text": "4. Reproducibility"
+            },
+            {
+              "level": 1,
+              "text": "4. Versioning Rules"
+            },
+            {
+              "level": 1,
+              "text": "5. Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": true,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "TESTING.md",
+          "size": 335,
+          "headings": [
+            {
+              "level": 1,
+              "text": "TESTING"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "Testing Principles"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "VERSION_MANIFEST.md",
+          "size": 1348,
+          "headings": [
+            {
+              "level": 1,
+              "text": "BBnCC Version Manifest"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 1,
+              "text": "Current Version"
+            },
+            {
+              "level": 3,
+              "text": "Release Summary"
+            },
+            {
+              "level": 1,
+              "text": "Versioning Rules"
+            },
+            {
+              "level": 1,
+              "text": "Change Log"
+            },
+            {
+              "level": 2,
+              "text": "v1.0.0 — System Initialization"
+            },
+            {
+              "level": 1,
+              "text": "Notes"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "VERSIONING.md",
+          "size": 621,
+          "headings": [
+            {
+              "level": 1,
+              "text": "VERSIONING"
+            },
+            {
+              "level": 2,
+              "text": "Approach"
+            },
+            {
+              "level": 2,
+              "text": "Format"
+            },
+            {
+              "level": 3,
+              "text": "MAJOR"
+            },
+            {
+              "level": 3,
+              "text": "MINOR"
+            },
+            {
+              "level": 3,
+              "text": "PATCH"
+            },
+            {
+              "level": 2,
+              "text": "Release Process"
+            },
+            {
+              "level": 2,
+              "text": "Stability Promise"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        }
+      ]
+    },
+    {
+      "repoId": "boswellmike68-bot/Bozitivez",
+      "root": "C:/Downloads/Bozitivez/Bozitivez-main",
+      "status": "ok",
+      "files": [
+        {
+          "relPath": "boardroom/rules.md",
+          "size": 3460,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Bozitivez Boardroom – Governance Rules"
+            },
+            {
+              "level": 3,
+              "text": "Adaptive Access • Unified Governance • Zero Inequality"
+            },
+            {
+              "level": 2,
+              "text": "1. Purpose of the Boardroom"
+            },
+            {
+              "level": 2,
+              "text": "2. Decision Framework (Five‑Step Consensus Model)"
+            },
+            {
+              "level": 3,
+              "text": "**1. Clarify**"
+            },
+            {
+              "level": 3,
+              "text": "**2. Wellbeing**"
+            },
+            {
+              "level": 3,
+              "text": "**3. Ethics**"
+            },
+            {
+              "level": 3,
+              "text": "**4. Feasibility**"
+            },
+            {
+              "level": 3,
+              "text": "**5. Alignment**"
+            },
+            {
+              "level": 2,
+              "text": "3. Accessibility Principles"
+            },
+            {
+              "level": 2,
+              "text": "4. Tone and Influence"
+            },
+            {
+              "level": 2,
+              "text": "5. User Agency"
+            },
+            {
+              "level": 2,
+              "text": "6. Transparency and Explainability"
+            },
+            {
+              "level": 2,
+              "text": "7. Future Expansion (Phase 2+)"
+            },
+            {
+              "level": 2,
+              "text": "8. Core Commitment"
+            },
+            {
+              "level": 3,
+              "text": "**Governance must never create inequality.**"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": true,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "README.md",
+          "size": 2237,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Bozitivez Governance Architecture"
+            },
+            {
+              "level": 3,
+              "text": "Building Systems That Cannot Fail Silently"
+            },
+            {
+              "level": 2,
+              "text": "What We Are Building"
+            },
+            {
+              "level": 3,
+              "text": "1. BBnCCz — The Governance Engine"
+            },
+            {
+              "level": 3,
+              "text": "2. Bozaboard UI — The Accessibility-First Interface"
+            },
+            {
+              "level": 3,
+              "text": "3. Governance Connectors"
+            },
+            {
+              "level": 2,
+              "text": "Why This Matters"
+            },
+            {
+              "level": 2,
+              "text": "Who This Helps"
+            },
+            {
+              "level": 2,
+              "text": "Why Sponsorship Matters"
+            },
+            {
+              "level": 2,
+              "text": "Vision"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": true,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "testing/A-local-sim/rules.md",
+          "size": 3460,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Bozitivez Boardroom – Governance Rules"
+            },
+            {
+              "level": 3,
+              "text": "Adaptive Access • Unified Governance • Zero Inequality"
+            },
+            {
+              "level": 2,
+              "text": "1. Purpose of the Boardroom"
+            },
+            {
+              "level": 2,
+              "text": "2. Decision Framework (Five‑Step Consensus Model)"
+            },
+            {
+              "level": 3,
+              "text": "**1. Clarify**"
+            },
+            {
+              "level": 3,
+              "text": "**2. Wellbeing**"
+            },
+            {
+              "level": 3,
+              "text": "**3. Ethics**"
+            },
+            {
+              "level": 3,
+              "text": "**4. Feasibility**"
+            },
+            {
+              "level": 3,
+              "text": "**5. Alignment**"
+            },
+            {
+              "level": 2,
+              "text": "3. Accessibility Principles"
+            },
+            {
+              "level": 2,
+              "text": "4. Tone and Influence"
+            },
+            {
+              "level": 2,
+              "text": "5. User Agency"
+            },
+            {
+              "level": 2,
+              "text": "6. Transparency and Explainability"
+            },
+            {
+              "level": 2,
+              "text": "7. Future Expansion (Phase 2+)"
+            },
+            {
+              "level": 2,
+              "text": "8. Core Commitment"
+            },
+            {
+              "level": 3,
+              "text": "**Governance must never create inequality.**"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": true,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "testing/C-hybrid/rules.md",
+          "size": 3460,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Bozitivez Boardroom – Governance Rules"
+            },
+            {
+              "level": 3,
+              "text": "Adaptive Access • Unified Governance • Zero Inequality"
+            },
+            {
+              "level": 2,
+              "text": "1. Purpose of the Boardroom"
+            },
+            {
+              "level": 2,
+              "text": "2. Decision Framework (Five‑Step Consensus Model)"
+            },
+            {
+              "level": 3,
+              "text": "**1. Clarify**"
+            },
+            {
+              "level": 3,
+              "text": "**2. Wellbeing**"
+            },
+            {
+              "level": 3,
+              "text": "**3. Ethics**"
+            },
+            {
+              "level": 3,
+              "text": "**4. Feasibility**"
+            },
+            {
+              "level": 3,
+              "text": "**5. Alignment**"
+            },
+            {
+              "level": 2,
+              "text": "3. Accessibility Principles"
+            },
+            {
+              "level": 2,
+              "text": "4. Tone and Influence"
+            },
+            {
+              "level": 2,
+              "text": "5. User Agency"
+            },
+            {
+              "level": 2,
+              "text": "6. Transparency and Explainability"
+            },
+            {
+              "level": 2,
+              "text": "7. Future Expansion (Phase 2+)"
+            },
+            {
+              "level": 2,
+              "text": "8. Core Commitment"
+            },
+            {
+              "level": 3,
+              "text": "**Governance must never create inequality.**"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": true,
+            "hasDeterminism": false
+          }
+        }
+      ]
+    },
+    {
+      "repoId": "boswellmike68-bot/LovesfireAI",
+      "root": "C:/Downloads/LovesfireAI/LovesfireAI-main",
+      "status": "ok",
+      "files": [
+        {
+          "relPath": "README.md",
+          "size": 1934,
+          "headings": [
+            {
+              "level": 1,
+              "text": "LovesfireAI"
+            },
+            {
+              "level": 2,
+              "text": "Purpose"
+            },
+            {
+              "level": 2,
+              "text": "System Architecture"
+            },
+            {
+              "level": 3,
+              "text": "Architecture Overview"
+            },
+            {
+              "level": 2,
+              "text": "Repository Structure"
+            },
+            {
+              "level": 2,
+              "text": "Live Room Integration"
+            },
+            {
+              "level": 2,
+              "text": "Status"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": true,
+            "hasDeterminism": false
+          }
+        }
+      ]
+    }
+  ]
+}
