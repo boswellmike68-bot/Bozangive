@@ -148,3 +148,6 @@ vite.config.ts.timestamp-*
 
  # IDE
  .vscode/
+
+# Sensitive access tier hashes (loaded at runtime)
+access_tiers.json

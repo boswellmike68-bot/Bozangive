@@ -3,21 +3,31 @@
     {
       "name": "Bozangive",
       "url": "https://github.com/boswellmike68-bot/Bozangive",
+      "localPath": "C:/Users/joe/Bozangive-1",
       "access": "read-only"
     },
     {
       "name": "BBnCC",
       "url": "https://github.com/boswellmike68-bot/BBnCC",
+      "localPath": "C:/Users/joe/CascadeProjects/BBnCC",
       "access": "read-only"
     },
     {
       "name": "LovesfireAI",
-      "url": "https://github.com/boswellmike68-bot/LovesfireAI",
+      "url": "https://github.com/boswellmike68-bot/lovesfire-ai",
+      "localPath": "C:/Users/joe/CascadeProjects/lovesfire-ai",
       "access": "read-only"
     },
     {
       "name": "Bozitivez",
       "url": "https://github.com/boswellmike68-bot/Bozitivez",
+      "localPath": "C:/Users/joe/Documents/Bozitivez/Bozitivez-main",
+      "access": "read-only"
+    },
+    {
+      "name": "Bozafire",
+      "url": "https://github.com/boswellmike68-bot/bozafire",
+      "localPath": "C:/Users/joe/CascadeProjects/bozafire",
       "access": "read-only"
     }
   ],

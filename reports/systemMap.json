@@ -11,20 +11,14 @@
         {
           "path": ".github/workflows/",
           "type": "dir",
-          "children": [
-            {
-              "path": ".github/workflows/pages.yml",
-              "type": "file",
-              "size": 852
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
       "path": ".gitignore",
       "type": "file",
-      "size": 2291
+      "size": 2396
     },
     {
       "path": ".windsurf/",
@@ -37,9 +31,146 @@
             {
               "path": ".windsurf/workflows/review.md",
               "type": "file",
-              "size": 1315
+              "size": 1336
             }
           ]
+        }
+      ]
+    },
+    {
+      "path": ".windsurfrules",
+      "type": "file",
+      "size": 5657
+    },
+    {
+      "path": "Bozaboard/",
+      "type": "dir",
+      "children": [
+        {
+          "path": "Bozaboard/AccessibilityPrefs.js",
+          "type": "file",
+          "size": 5662
+        },
+        {
+          "path": "Bozaboard/AccessKey.js",
+          "type": "file",
+          "size": 2787
+        },
+        {
+          "path": "Bozaboard/bbncc-engine.js",
+          "type": "file",
+          "size": 8968
+        },
+        {
+          "path": "Bozaboard/boardroom.js",
+          "type": "file",
+          "size": 28491
+        },
+        {
+          "path": "Bozaboard/DEMO_SCRIPT.md",
+          "type": "file",
+          "size": 4665
+        },
+        {
+          "path": "Bozaboard/index.html",
+          "type": "file",
+          "size": 34733
+        },
+        {
+          "path": "Bozaboard/lovesfire-bridge.js",
+          "type": "file",
+          "size": 2417
+        },
+        {
+          "path": "Bozaboard/lovesfire.js",
+          "type": "file",
+          "size": 50630
+        },
+        {
+          "path": "Bozaboard/markdown.js",
+          "type": "file",
+          "size": 403
+        },
+        {
+          "path": "Bozaboard/MascotAI.js",
+          "type": "file",
+          "size": 6668
+        },
+        {
+          "path": "Bozaboard/parseCodeBlocks.js",
+          "type": "file",
+          "size": 703
+        },
+        {
+          "path": "Bozaboard/parseHeadings.js",
+          "type": "file",
+          "size": 549
+        },
+        {
+          "path": "Bozaboard/parseHorizontalRules.js",
+          "type": "file",
+          "size": 278
+        },
+        {
+          "path": "Bozaboard/parseLists.js",
+          "type": "file",
+          "size": 881
+        },
+        {
+          "path": "Bozaboard/persona-avatar.js",
+          "type": "file",
+          "size": 18166
+        },
+        {
+          "path": "Bozaboard/persona-controller.js",
+          "type": "file",
+          "size": 2294
+        },
+        {
+          "path": "Bozaboard/persona-voice.js",
+          "type": "file",
+          "size": 3542
+        },
+        {
+          "path": "Bozaboard/pillars/",
+          "type": "dir",
+          "children": [
+            {
+              "path": "Bozaboard/pillars/advisory.md",
+              "type": "file",
+              "size": 94
+            },
+            {
+              "path": "Bozaboard/pillars/blueprint.md",
+              "type": "file",
+              "size": 1075
+            },
+            {
+              "path": "Bozaboard/pillars/governance.md",
+              "type": "file",
+              "size": 1000
+            },
+            {
+              "path": "Bozaboard/pillars/launch.md",
+              "type": "file",
+              "size": 800
+            }
+          ]
+        },
+        {
+          "path": "Bozaboard/README.md",
+          "type": "file",
+          "size": 3557
+        },
+        {
+          "path": "Bozaboard/SPONSOR_EMAILS.md",
+          "type": "file",
+          "size": 4409
+        },
+        {
+          "path": "Bozaboard/SPONSOR_PITCH.md",
+          "type": "file",
+          "size": 3902
         }
       ]
     },
@@ -55,7 +186,7 @@
         {
           "path": "config/repos.json",
           "type": "file",
-          "size": 687
+          "size": 1125
         },
         {
           "path": "config/supervision.json",
@@ -86,7 +217,7 @@
         {
           "path": "core/taskRouter.js",
           "type": "file",
-          "size": 3836
+          "size": 3852
         }
       ]
     },
@@ -180,14 +311,24 @@
       "size": 1090
     },
     {
+      "path": "package-lock.json",
+      "type": "file",
+      "size": 17032
+    },
+    {
       "path": "package.json",
       "type": "file",
-      "size": 197
+      "size": 209
+    },
+    {
+      "path": "PROJECT_INVENTORY_REPORT.md",
+      "type": "file",
+      "size": 14201
     },
     {
       "path": "README.md",
       "type": "file",
-      "size": 104
+      "size": 232
     },
     {
       "path": "reports/",
@@ -201,12 +342,12 @@
         {
           "path": "reports/crossRepoDocs.html",
           "type": "file",
-          "size": 5125
+          "size": 6289
         },
         {
           "path": "reports/crossRepoDocs.json",
           "type": "file",
-          "size": 90492
+          "size": 138815
         },
         {
           "path": "reports/fileSummaries.json",
@@ -216,7 +357,7 @@
         {
           "path": "reports/index.html",
           "type": "file",
-          "size": 1045
+          "size": 1175
         },
         {
           "path": "reports/placeholderReport.json",
@@ -229,6 +370,11 @@
           "size": 2678
         },
         {
+          "path": "reports/stakeholder_overview.md",
+          "type": "file",
+          "size": 6198
+        },
+        {
           "path": "reports/system_map.txt",
           "type": "file",
           "size": 962
@@ -236,7 +382,7 @@
         {
           "path": "reports/systemMap.json",
           "type": "file",
-          "size": 5380
+          "size": 8832
         },
         {
           "path": "reports/systemMapGenerator.js",
@@ -248,12 +394,17 @@
     {
       "path": "run_doc_spectrum.js",
       "type": "file",
-      "size": 5912
+      "size": 6135
     },
     {
       "path": "run_inventory.js",
       "type": "file",
-      "size": 899
+      "size": 937
+    },
+    {
+      "path": "Untitled-1.txt",
+      "type": "file",
+      "size": 470
     }
   ]
 }

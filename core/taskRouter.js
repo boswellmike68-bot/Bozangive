@@ -23,7 +23,7 @@ export async function routeTask(task) {
 
         const nodes = [];
         for (const entry of entries) {
-          if (relDir === "" && entry.name === ".git") continue;
+          if (entry.name === ".git" || entry.name === "node_modules") continue;
 
           const normalizedRelDir = relDir.split("\\").join("/");
           const relPath = path.posix.join(normalizedRelDir, entry.name);

@@ -4,7 +4,12 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "inventory": "node run_inventory.js"
+    "inventory": "node run_inventory.js",
+    "scan:exposures": "node scripts/security-scan.cjs",
+    "scan:emails": "node scripts/security-scan.cjs --mode emails",
+    "scan:secrets": "node scripts/security-scan.cjs --mode secrets",
+    "scan:env": "node scripts/security-scan.cjs --mode env",
+    "security:scan": "node scripts/security-scan.cjs"
   },
   "dependencies": {
     "octokit": "^4.0.2"

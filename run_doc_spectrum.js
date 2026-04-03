@@ -140,9 +140,9 @@ function renderHtml(report) {
 async function main() {
   const repos = [
     { repoId: "boswellmike68-bot/Bozangive", root: process.cwd() },
-    { repoId: "boswellmike68-bot/BBnCC", root: "C:/Downloads/BBnCC/BBnCC-main" },
-    { repoId: "boswellmike68-bot/Bozitivez", root: "C:/Downloads/Bozitivez/Bozitivez-main" },
-    { repoId: "boswellmike68-bot/LovesfireAI", root: "C:/Downloads/LovesfireAI/LovesfireAI-main" }
+    { repoId: "boswellmike68-bot/BBnCC", root: "C:/Users/joe/CascadeProjects/BBnCC" },
+    { repoId: "boswellmike68-bot/Bozitivez", root: "C:/Users/joe/Documents/Bozitivez/Bozitivez-main" },
+    { repoId: "boswellmike68-bot/LovesfireAI", root: "C:/Users/joe/CascadeProjects/lovesfire-ai" }
   ];
 
   const out = {

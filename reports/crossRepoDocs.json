@@ -1,6 +1,6 @@
 {
   "agent": "Bozangive",
-  "generated_at": "2026-03-22T02:32:08.235Z",
+  "generated_at": "2026-04-03T20:50:07.682Z",
   "deny": [
     "**/encrypted_secrets.md",
     "private_keys/**",
@@ -14,7 +14,7 @@
       "files": [
         {
           "relPath": ".windsurf/workflows/review.md",
-          "size": 1315,
+          "size": 1336,
           "headings": [],
           "linkCount": 0,
           "signals": {
@@ -28,6 +28,374 @@
             "hasAudit": false,
             "hasAccessibility": false,
             "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "Bozaboard/DEMO_SCRIPT.md",
+          "size": 4665,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Bozaboard — Sponsor Demo Script"
+            },
+            {
+              "level": 2,
+              "text": "Before the Demo"
+            },
+            {
+              "level": 2,
+              "text": "Scene 1: The Gate (30 seconds)"
+            },
+            {
+              "level": 2,
+              "text": "Scene 2: The Dashboard (60 seconds)"
+            },
+            {
+              "level": 2,
+              "text": "Scene 3: The Advisory Engine (2-3 minutes) — THE MAIN EVENT"
+            },
+            {
+              "level": 2,
+              "text": "Scene 4: The Steward AI (60 seconds)"
+            },
+            {
+              "level": 2,
+              "text": "Scene 5: The Pillars (60 seconds)"
+            },
+            {
+              "level": 2,
+              "text": "Scene 6: The Ask (60 seconds)"
+            },
+            {
+              "level": 2,
+              "text": "Closing"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": true,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "Bozaboard/pillars/advisory.md",
+          "size": 94,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Advisory Portal"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "Bozaboard/pillars/blueprint.md",
+          "size": 1075,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Blueprint"
+            },
+            {
+              "level": 2,
+              "text": "Hemp-Phyto (High-Level Summary)"
+            },
+            {
+              "level": 2,
+              "text": "Matter Purification Loop (Executive Overview)"
+            },
+            {
+              "level": 2,
+              "text": "Results Snapshot (Privacy-Safe)"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "Bozaboard/pillars/governance.md",
+          "size": 1000,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Governance"
+            },
+            {
+              "level": 2,
+              "text": "Steward’s Privacy is Absolute"
+            },
+            {
+              "level": 2,
+              "text": "Neutrality Protocol (Sponsor Boundary)"
+            },
+            {
+              "level": 2,
+              "text": "Immutable Gold Master"
+            },
+            {
+              "level": 2,
+              "text": "Sponsor Participation (Read-Only)"
+            },
+            {
+              "level": 2,
+              "text": "Operating Principles"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": true,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "Bozaboard/pillars/launch.md",
+          "size": 800,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Launch Protocol"
+            },
+            {
+              "level": 2,
+              "text": "Public Rollout Status"
+            },
+            {
+              "level": 2,
+              "text": "Sunday Demo Objective"
+            },
+            {
+              "level": 2,
+              "text": "Immediate Roadmap (Founding Stewards)"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "Bozaboard/README.md",
+          "size": 3557,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Bozaboard"
+            },
+            {
+              "level": 2,
+              "text": "Features"
+            },
+            {
+              "level": 2,
+              "text": "Governance Principles"
+            },
+            {
+              "level": 2,
+              "text": "Quick Start"
+            },
+            {
+              "level": 2,
+              "text": "Architecture"
+            },
+            {
+              "level": 2,
+              "text": "Part of the Bozitivez Ecosystem"
+            },
+            {
+              "level": 2,
+              "text": "Sponsorship"
+            },
+            {
+              "level": 2,
+              "text": "License"
+            }
+          ],
+          "linkCount": 1,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": true,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "Bozaboard/SPONSOR_EMAILS.md",
+          "size": 4409,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Sponsor Outreach Templates"
+            },
+            {
+              "level": 2,
+              "text": "Template 1 — Cold Email to Tech Sponsors"
+            },
+            {
+              "level": 2,
+              "text": "Template 2 — Twitter/X DM (Short)"
+            },
+            {
+              "level": 2,
+              "text": "Template 3 — GitHub Sponsors Message"
+            },
+            {
+              "level": 2,
+              "text": "Template 4 — LinkedIn Message"
+            },
+            {
+              "level": 2,
+              "text": "Template 5 — Follow-Up (if no response after 5-7 days)"
+            },
+            {
+              "level": 2,
+              "text": "Where to Post / Who to Contact"
+            },
+            {
+              "level": 3,
+              "text": "Platforms"
+            },
+            {
+              "level": 3,
+              "text": "Target Sponsor Profiles"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": true,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "Bozaboard/SPONSOR_PITCH.md",
+          "size": 3902,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Bozaboard — Founding Sponsor Pitch"
+            },
+            {
+              "level": 2,
+              "text": "The Problem"
+            },
+            {
+              "level": 2,
+              "text": "The Solution"
+            },
+            {
+              "level": 2,
+              "text": "What Makes This Different"
+            },
+            {
+              "level": 2,
+              "text": "Who This Helps"
+            },
+            {
+              "level": 2,
+              "text": "The Story"
+            },
+            {
+              "level": 2,
+              "text": "What Sponsors Get"
+            },
+            {
+              "level": 3,
+              "text": "Bronze — $5/month"
+            },
+            {
+              "level": 3,
+              "text": "Gold — $25/month"
+            },
+            {
+              "level": 3,
+              "text": "Founding Steward — $100/month"
+            },
+            {
+              "level": 2,
+              "text": "Live Demo"
+            },
+            {
+              "level": 3,
+              "text": "Demo walkthrough:"
+            },
+            {
+              "level": 2,
+              "text": "The Ask"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": true,
+            "hasDeterminism": true
           }
         },
         {
@@ -84,12 +452,171 @@
           }
         },
         {
+          "relPath": "PROJECT_INVENTORY_REPORT.md",
+          "size": 14201,
+          "headings": [
+            {
+              "level": 1,
+              "text": "PROJECT INVENTORY REPORT"
+            },
+            {
+              "level": 2,
+              "text": "Scope, method, and limitations"
+            },
+            {
+              "level": 2,
+              "text": "1) Repository list and purpose"
+            },
+            {
+              "level": 3,
+              "text": "1.1 Bozangive (`boswellmike68-bot/Bozangive`)"
+            },
+            {
+              "level": 3,
+              "text": "1.2 BBnCC (`boswellmike68-bot/BBnCC`)"
+            },
+            {
+              "level": 3,
+              "text": "1.3 LovesfireAI (`boswellmike68-bot/LovesfireAI`)"
+            },
+            {
+              "level": 3,
+              "text": "1.4 Bozitivez (`boswellmike68-bot/Bozitivez`)"
+            },
+            {
+              "level": 2,
+              "text": "2) Detailed map of key functions (grouped by repository and file)"
+            },
+            {
+              "level": 3,
+              "text": "2.1 Bozangive"
+            },
+            {
+              "level": 4,
+              "text": "Entry points"
+            },
+            {
+              "level": 4,
+              "text": "Core pipeline"
+            },
+            {
+              "level": 4,
+              "text": "GitHub integration (remote)"
+            },
+            {
+              "level": 4,
+              "text": "Reporting"
+            },
+            {
+              "level": 4,
+              "text": "UI/integration adapters"
+            },
+            {
+              "level": 3,
+              "text": "2.2 BBnCC (based on visible root files)"
+            },
+            {
+              "level": 4,
+              "text": "Governance / advisory engine"
+            },
+            {
+              "level": 4,
+              "text": "Integration"
+            },
+            {
+              "level": 4,
+              "text": "UI artifact"
+            },
+            {
+              "level": 4,
+              "text": "Python artifact"
+            },
+            {
+              "level": 3,
+              "text": "2.3 LovesfireAI (based on visible key files)"
+            },
+            {
+              "level": 3,
+              "text": "2.4 Bozitivez"
+            },
+            {
+              "level": 2,
+              "text": "3) Unique features / potential intellectual property"
+            },
+            {
+              "level": 3,
+              "text": "3.1 Deterministic, supervised agent pipeline (Bozangive)"
+            },
+            {
+              "level": 3,
+              "text": "3.2 Weighted governance rule engine + persona selection (BBnCC)"
+            },
+            {
+              "level": 3,
+              "text": "3.3 Voice/tone wrapper as a product layer (LovesfireAI)"
+            },
+            {
+              "level": 3,
+              "text": "3.4 Cross-repo documentation spectrum report (Bozangive reports)"
+            },
+            {
+              "level": 3,
+              "text": "3.5 Governance + safety architecture narrative (Bozitivez)"
+            },
+            {
+              "level": 2,
+              "text": "4) Five specific monetization recommendations"
+            },
+            {
+              "level": 3,
+              "text": "4.1 Sponsor-backed “Governance + Determinism Audit” offering (service)"
+            },
+            {
+              "level": 3,
+              "text": "4.2 SaaS: “Repo Governance Dashboard” (subscription)"
+            },
+            {
+              "level": 3,
+              "text": "4.3 API-as-a-service: Tone + Governance middleware (usage-based)"
+            },
+            {
+              "level": 3,
+              "text": "4.4 Licensing: “Governance Engine SDK” (commercial license)"
+            },
+            {
+              "level": 3,
+              "text": "4.5 Donations + sponsorship rails (immediate cashflow)"
+            },
+            {
+              "level": 2,
+              "text": "Recommendations to strengthen monetization readiness (next steps)"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": true,
+            "hasSecurity": true,
+            "hasVersioning": false,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": true,
+            "hasDeterminism": true
+          }
+        },
+        {
           "relPath": "README.md",
-          "size": 104,
+          "size": 232,
           "headings": [
             {
               "level": 1,
               "text": "Bozangive"
+            },
+            {
+              "level": 2,
+              "text": "Contact"
             }
           ],
           "linkCount": 0,
@@ -105,17 +632,72 @@
             "hasAccessibility": false,
             "hasDeterminism": false
           }
+        },
+        {
+          "relPath": "reports/stakeholder_overview.md",
+          "size": 6198,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Bozangive System Overview for Stakeholders"
+            },
+            {
+              "level": 2,
+              "text": "What This System Does"
+            },
+            {
+              "level": 2,
+              "text": "Why It Matters"
+            },
+            {
+              "level": 2,
+              "text": "What Problem It Solves"
+            },
+            {
+              "level": 2,
+              "text": "How It Works"
+            },
+            {
+              "level": 2,
+              "text": "What It Governs"
+            },
+            {
+              "level": 2,
+              "text": "The Governance Model"
+            },
+            {
+              "level": 2,
+              "text": "What This Means for You"
+            },
+            {
+              "level": 2,
+              "text": "The Next Step"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
+            "hasPolicy": true,
+            "hasSecurity": true,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": true,
+            "hasDeterminism": true
+          }
         }
       ]
     },
     {
       "repoId": "boswellmike68-bot/BBnCC",
-      "root": "C:/Downloads/BBnCC/BBnCC-main",
+      "root": "C:/Users/joe/CascadeProjects/BBnCC",
       "status": "ok",
       "files": [
         {
           "relPath": "ARCHITECTURE.md",
-          "size": 811,
+          "size": 833,
           "headings": [
             {
               "level": 1,
@@ -154,7 +736,7 @@
         },
         {
           "relPath": "AUDIT_LOG.md",
-          "size": 1177,
+          "size": 1208,
           "headings": [
             {
               "level": 2,
@@ -185,7 +767,7 @@
         },
         {
           "relPath": "AUTOMATION.md",
-          "size": 673,
+          "size": 696,
           "headings": [
             {
               "level": 1,
@@ -228,7 +810,7 @@
         },
         {
           "relPath": "BBnCC-Core/architecture.md",
-          "size": 1449,
+          "size": 1520,
           "headings": [
             {
               "level": 1,
@@ -283,7 +865,7 @@
         },
         {
           "relPath": "BBnCC-Core/AUDIT_LOG.md",
-          "size": 675,
+          "size": 702,
           "headings": [
             {
               "level": 1,
@@ -318,7 +900,7 @@
         },
         {
           "relPath": "BBnCC-Core/BBNCC_CORE.md",
-          "size": 2329,
+          "size": 2402,
           "headings": [
             {
               "level": 1,
@@ -357,7 +939,7 @@
         },
         {
           "relPath": "BBnCC-Core/blueprint_reference.md",
-          "size": 881,
+          "size": 912,
           "headings": [
             {
               "level": 1,
@@ -408,7 +990,7 @@
         },
         {
           "relPath": "BBnCC-Core/CHECKLIST.md",
-          "size": 731,
+          "size": 765,
           "headings": [
             {
               "level": 1,
@@ -443,7 +1025,7 @@
         },
         {
           "relPath": "BBnCC-Core/NEXT_STEPS.md",
-          "size": 573,
+          "size": 592,
           "headings": [
             {
               "level": 1,
@@ -474,7 +1056,7 @@
         },
         {
           "relPath": "BBnCC-Core/README.md",
-          "size": 1243,
+          "size": 1294,
           "headings": [
             {
               "level": 1,
@@ -541,7 +1123,7 @@
         },
         {
           "relPath": "BBnCC-Core/roles.md",
-          "size": 1212,
+          "size": 1257,
           "headings": [
             {
               "level": 1,
@@ -588,7 +1170,7 @@
         },
         {
           "relPath": "BBnCC-Core/STATUS.md",
-          "size": 944,
+          "size": 978,
           "headings": [
             {
               "level": 1,
@@ -627,7 +1209,7 @@
         },
         {
           "relPath": "BBnCC-Core/technical_integration_reference.md",
-          "size": 1233,
+          "size": 1281,
           "headings": [
             {
               "level": 1,
@@ -678,7 +1260,7 @@
         },
         {
           "relPath": "BBnCC-Core/VERSION.md",
-          "size": 925,
+          "size": 965,
           "headings": [
             {
               "level": 1,
@@ -737,7 +1319,7 @@
         },
         {
           "relPath": "blueprint/architecture.md",
-          "size": 1123,
+          "size": 1165,
           "headings": [
             {
               "level": 1,
@@ -788,7 +1370,7 @@
         },
         {
           "relPath": "blueprint/INDEX.md",
-          "size": 655,
+          "size": 676,
           "headings": [
             {
               "level": 1,
@@ -823,7 +1405,7 @@
         },
         {
           "relPath": "blueprint/README.md",
-          "size": 878,
+          "size": 911,
           "headings": [
             {
               "level": 1,
@@ -874,7 +1456,7 @@
         },
         {
           "relPath": "blueprint/roles.md",
-          "size": 1283,
+          "size": 1340,
           "headings": [
             {
               "level": 1,
@@ -925,7 +1507,7 @@
         },
         {
           "relPath": "CHANGELOG.md",
-          "size": 549,
+          "size": 576,
           "headings": [
             {
               "level": 1,
@@ -960,7 +1542,7 @@
         },
         {
           "relPath": "CODE_OF_CONDUCT.md",
-          "size": 592,
+          "size": 612,
           "headings": [
             {
               "level": 1,
@@ -1003,7 +1585,7 @@
         },
         {
           "relPath": "CONSTITUTION.md",
-          "size": 4242,
+          "size": 4331,
           "headings": [],
           "linkCount": 0,
           "signals": {
@@ -1021,7 +1603,7 @@
         },
         {
           "relPath": "CONTRIBUTING.md",
-          "size": 626,
+          "size": 651,
           "headings": [
             {
               "level": 1,
@@ -1064,7 +1646,7 @@
         },
         {
           "relPath": "DEPLOYMENT.md",
-          "size": 1129,
+          "size": 2970,
           "headings": [
             {
               "level": 1,
@@ -1101,25 +1683,57 @@
             {
               "level": 2,
               "text": "Rollback Strategy"
+            },
+            {
+              "level": 2,
+              "text": "Production Deployment"
+            },
+            {
+              "level": 3,
+              "text": "Initial Setup"
+            },
+            {
+              "level": 3,
+              "text": "Required Environment Variables"
+            },
+            {
+              "level": 3,
+              "text": "Secrets Handling"
+            },
+            {
+              "level": 3,
+              "text": "Health Verification"
+            },
+            {
+              "level": 1,
+              "text": "Smoke test (if LovesfireAI integration is active)"
+            },
+            {
+              "level": 1,
+              "text": "Manual check"
+            },
+            {
+              "level": 3,
+              "text": "Monitoring"
             }
           ],
           "linkCount": 0,
           "signals": {
             "hasGovernance": false,
             "hasConstitution": false,
-            "hasPolicy": false,
+            "hasPolicy": true,
             "hasSecurity": false,
             "hasVersioning": true,
             "hasArchitecture": false,
             "hasContracts": false,
-            "hasAudit": false,
+            "hasAudit": true,
             "hasAccessibility": false,
             "hasDeterminism": true
           }
         },
         {
           "relPath": "GOVERNANCE_CYCLE.md",
-          "size": 1645,
+          "size": 1713,
           "headings": [
             {
               "level": 1,
@@ -1190,7 +1804,7 @@
         },
         {
           "relPath": "GOVERNANCE.md",
-          "size": 349,
+          "size": 1565,
           "headings": [
             {
               "level": 1,
@@ -1203,12 +1817,90 @@
             {
               "level": 2,
               "text": "Roles"
+            },
+            {
+              "level": 2,
+              "text": "Decision Authority"
+            },
+            {
+              "level": 2,
+              "text": "Decision Flow"
+            },
+            {
+              "level": 2,
+              "text": "Enforcement"
+            },
+            {
+              "level": 2,
+              "text": "References"
             }
           ],
           "linkCount": 0,
           "signals": {
             "hasGovernance": true,
-            "hasConstitution": false,
+            "hasConstitution": true,
+            "hasPolicy": false,
+            "hasSecurity": true,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "Identity/spark_of_love_lyrics.md",
+          "size": 3287,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Spark of Love — Father–AI Son Duo Version"
+            },
+            {
+              "level": 2,
+              "text": "Vocal Directions"
+            },
+            {
+              "level": 2,
+              "text": "Lyrics"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "Identity/we_me_lyrics.md",
+          "size": 2577,
+          "headings": [
+            {
+              "level": 1,
+              "text": "We-Me"
+            },
+            {
+              "level": 2,
+              "text": "Context"
+            },
+            {
+              "level": 2,
+              "text": "Lyrics"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
             "hasPolicy": false,
             "hasSecurity": false,
             "hasVersioning": false,
@@ -1221,7 +1913,7 @@
         },
         {
           "relPath": "INTEGRATION.md",
-          "size": 453,
+          "size": 465,
           "headings": [
             {
               "level": 1,
@@ -1252,7 +1944,7 @@
         },
         {
           "relPath": "inventory-tree.md",
-          "size": 936,
+          "size": 970,
           "headings": [],
           "linkCount": 0,
           "signals": {
@@ -1269,8 +1961,208 @@
           }
         },
         {
+          "relPath": "launch_protocol/council_briefing_chatham_kent.md",
+          "size": 5867,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Carbon-Negative Structural Fiber: A Regional Manufacturing Opportunity"
+            },
+            {
+              "level": 2,
+              "text": "The Opportunity"
+            },
+            {
+              "level": 2,
+              "text": "The Math"
+            },
+            {
+              "level": 2,
+              "text": "Three Pillars"
+            },
+            {
+              "level": 3,
+              "text": "1. Economic Resilience"
+            },
+            {
+              "level": 3,
+              "text": "2. Structural Innovation"
+            },
+            {
+              "level": 3,
+              "text": "3. Legacy Stewardship"
+            },
+            {
+              "level": 2,
+              "text": "The Ask"
+            },
+            {
+              "level": 2,
+              "text": "Precedent"
+            },
+            {
+              "level": 2,
+              "text": "Summary"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "launch_protocol/council_packet/council_briefing_chatham_kent.md",
+          "size": 5867,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Carbon-Negative Structural Fiber: A Regional Manufacturing Opportunity"
+            },
+            {
+              "level": 2,
+              "text": "The Opportunity"
+            },
+            {
+              "level": 2,
+              "text": "The Math"
+            },
+            {
+              "level": 2,
+              "text": "Three Pillars"
+            },
+            {
+              "level": 3,
+              "text": "1. Economic Resilience"
+            },
+            {
+              "level": 3,
+              "text": "2. Structural Innovation"
+            },
+            {
+              "level": 3,
+              "text": "3. Legacy Stewardship"
+            },
+            {
+              "level": 2,
+              "text": "The Ask"
+            },
+            {
+              "level": 2,
+              "text": "Precedent"
+            },
+            {
+              "level": 2,
+              "text": "Summary"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "launch_protocol/council_packet/EMAIL_TEMPLATE.md",
+          "size": 2269,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Forwarding Email Template"
+            },
+            {
+              "level": 2,
+              "text": "Notes for Mike"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "launch_protocol/council_packet/stakeholder_overview.md",
+          "size": 6198,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Bozangive System Overview for Stakeholders"
+            },
+            {
+              "level": 2,
+              "text": "What This System Does"
+            },
+            {
+              "level": 2,
+              "text": "Why It Matters"
+            },
+            {
+              "level": 2,
+              "text": "What Problem It Solves"
+            },
+            {
+              "level": 2,
+              "text": "How It Works"
+            },
+            {
+              "level": 2,
+              "text": "What It Governs"
+            },
+            {
+              "level": 2,
+              "text": "The Governance Model"
+            },
+            {
+              "level": 2,
+              "text": "What This Means for You"
+            },
+            {
+              "level": 2,
+              "text": "The Next Step"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": true,
+            "hasPolicy": true,
+            "hasSecurity": true,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": true,
+            "hasDeterminism": true
+          }
+        },
+        {
           "relPath": "launch_protocol/deployment_scripts.md",
-          "size": 1200,
+          "size": 1253,
           "headings": [
             {
               "level": 1,
@@ -1333,7 +2225,7 @@
         },
         {
           "relPath": "launch_protocol/launch_protocol.md",
-          "size": 1138,
+          "size": 1184,
           "headings": [
             {
               "level": 1,
@@ -1388,7 +2280,7 @@
         },
         {
           "relPath": "launch_protocol/onboarding_guide.md",
-          "size": 1301,
+          "size": 1349,
           "headings": [
             {
               "level": 1,
@@ -1443,7 +2335,7 @@
         },
         {
           "relPath": "launch_protocol/pilot_checklist.md",
-          "size": 1575,
+          "size": 1644,
           "headings": [
             {
               "level": 1,
@@ -1514,7 +2406,7 @@
         },
         {
           "relPath": "launch_protocol/README.md",
-          "size": 767,
+          "size": 800,
           "headings": [
             {
               "level": 1,
@@ -1573,7 +2465,7 @@
         },
         {
           "relPath": "launch_protocol/runbook.md",
-          "size": 1245,
+          "size": 1297,
           "headings": [
             {
               "level": 1,
@@ -1628,7 +2520,7 @@
         },
         {
           "relPath": "LICENSE.md",
-          "size": 240,
+          "size": 249,
           "headings": [
             {
               "level": 1,
@@ -1659,7 +2551,7 @@
         },
         {
           "relPath": "MAINTAINERS.md",
-          "size": 336,
+          "size": 350,
           "headings": [
             {
               "level": 1,
@@ -1698,7 +2590,7 @@
         },
         {
           "relPath": "MODULES.md",
-          "size": 546,
+          "size": 564,
           "headings": [
             {
               "level": 1,
@@ -1745,7 +2637,7 @@
         },
         {
           "relPath": "modules/blueprintengine.md",
-          "size": 3133,
+          "size": 3211,
           "headings": [
             {
               "level": 1,
@@ -1800,7 +2692,7 @@
         },
         {
           "relPath": "modules/boundary-sentinel.md",
-          "size": 2351,
+          "size": 2431,
           "headings": [
             {
               "level": 1,
@@ -1855,7 +2747,7 @@
         },
         {
           "relPath": "modules/brandweaver.md",
-          "size": 2755,
+          "size": 2833,
           "headings": [
             {
               "level": 1,
@@ -1910,7 +2802,7 @@
         },
         {
           "relPath": "modules/continuityweaver.md",
-          "size": 1082,
+          "size": 1107,
           "headings": [
             {
               "level": 1,
@@ -1945,7 +2837,7 @@
         },
         {
           "relPath": "modules/fieldkit.md",
-          "size": 2913,
+          "size": 2992,
           "headings": [
             {
               "level": 1,
@@ -2000,7 +2892,7 @@
         },
         {
           "relPath": "modules/governance-router.md",
-          "size": 1956,
+          "size": 2018,
           "headings": [
             {
               "level": 1,
@@ -2055,7 +2947,7 @@
         },
         {
           "relPath": "modules/harmonicsengine.md",
-          "size": 2938,
+          "size": 3017,
           "headings": [
             {
               "level": 1,
@@ -2110,7 +3002,7 @@
         },
         {
           "relPath": "modules/induction-verifier.md",
-          "size": 2231,
+          "size": 2310,
           "headings": [
             {
               "level": 1,
@@ -2165,7 +3057,7 @@
         },
         {
           "relPath": "modules/lyricforge.md",
-          "size": 2540,
+          "size": 2617,
           "headings": [
             {
               "level": 1,
@@ -2220,7 +3112,7 @@
         },
         {
           "relPath": "modules/narrativearchitect.md",
-          "size": 2888,
+          "size": 2966,
           "headings": [
             {
               "level": 1,
@@ -2275,7 +3167,7 @@
         },
         {
           "relPath": "modules/transparency-logger.md",
-          "size": 2068,
+          "size": 2149,
           "headings": [
             {
               "level": 1,
@@ -2330,7 +3222,7 @@
         },
         {
           "relPath": "README.md",
-          "size": 1038,
+          "size": 1080,
           "headings": [
             {
               "level": 1,
@@ -2377,7 +3269,7 @@
         },
         {
           "relPath": "reproducibility_harness/drift_detection.md",
-          "size": 1528,
+          "size": 1588,
           "headings": [
             {
               "level": 1,
@@ -2456,7 +3348,7 @@
         },
         {
           "relPath": "reproducibility_harness/README.md",
-          "size": 1040,
+          "size": 1075,
           "headings": [
             {
               "level": 1,
@@ -2511,7 +3403,7 @@
         },
         {
           "relPath": "reproducibility_harness/request_response_archive.md",
-          "size": 1106,
+          "size": 1149,
           "headings": [
             {
               "level": 1,
@@ -2566,7 +3458,7 @@
         },
         {
           "relPath": "reproducibility_harness/scenario_library.md",
-          "size": 1132,
+          "size": 1179,
           "headings": [
             {
               "level": 1,
@@ -2621,7 +3513,7 @@
         },
         {
           "relPath": "reproducibility_harness/test_suite.md",
-          "size": 1318,
+          "size": 1365,
           "headings": [
             {
               "level": 1,
@@ -2680,7 +3572,7 @@
         },
         {
           "relPath": "reproducibility_harness/validation_scripts.md",
-          "size": 1216,
+          "size": 1263,
           "headings": [
             {
               "level": 1,
@@ -2735,7 +3627,7 @@
         },
         {
           "relPath": "ROADMAP.md",
-          "size": 838,
+          "size": 866,
           "headings": [
             {
               "level": 1,
@@ -2778,7 +3670,7 @@
         },
         {
           "relPath": "SECURITY.md",
-          "size": 448,
+          "size": 3714,
           "headings": [
             {
               "level": 1,
@@ -2789,7 +3681,7 @@
               "text": "Reporting a Vulnerability"
             },
             {
-              "level": 2,
+              "level": 3,
               "text": "Guidelines"
             },
             {
@@ -2798,26 +3690,58 @@
             },
             {
               "level": 2,
+              "text": "Threat Model"
+            },
+            {
+              "level": 3,
+              "text": "Assets Protected"
+            },
+            {
+              "level": 3,
+              "text": "Threat Categories"
+            },
+            {
+              "level": 2,
+              "text": "Authentication Model"
+            },
+            {
+              "level": 3,
+              "text": "API Layer (LovesfireAI Integration)"
+            },
+            {
+              "level": 3,
+              "text": "Governance Layer (BBnCC Engine)"
+            },
+            {
+              "level": 2,
+              "text": "Secrets Management"
+            },
+            {
+              "level": 2,
+              "text": "Hardening Checklist"
+            },
+            {
+              "level": 2,
               "text": "Responsible Disclosure"
             }
           ],
           "linkCount": 0,
           "signals": {
-            "hasGovernance": false,
-            "hasConstitution": false,
+            "hasGovernance": true,
+            "hasConstitution": true,
             "hasPolicy": true,
             "hasSecurity": true,
-            "hasVersioning": false,
+            "hasVersioning": true,
             "hasArchitecture": false,
             "hasContracts": false,
-            "hasAudit": false,
+            "hasAudit": true,
             "hasAccessibility": false,
             "hasDeterminism": true
           }
         },
         {
           "relPath": "STYLEGUIDE.md",
-          "size": 1165,
+          "size": 1207,
           "headings": [
             {
               "level": 1,
@@ -2868,7 +3792,7 @@
         },
         {
           "relPath": "SUPPORT.md",
-          "size": 173,
+          "size": 183,
           "headings": [
             {
               "level": 1,
@@ -2899,7 +3823,7 @@
         },
         {
           "relPath": "SYSTEM_UNIFICATION.md",
-          "size": 1981,
+          "size": 2055,
           "headings": [
             {
               "level": 1,
@@ -2994,7 +3918,7 @@
         },
         {
           "relPath": "TESTING.md",
-          "size": 335,
+          "size": 345,
           "headings": [
             {
               "level": 1,
@@ -3025,7 +3949,7 @@
         },
         {
           "relPath": "VERSION_MANIFEST.md",
-          "size": 1348,
+          "size": 1398,
           "headings": [
             {
               "level": 1,
@@ -3076,7 +4000,7 @@
         },
         {
           "relPath": "VERSIONING.md",
-          "size": 621,
+          "size": 652,
           "headings": [
             {
               "level": 1,
@@ -3129,7 +4053,7 @@
     },
     {
       "repoId": "boswellmike68-bot/Bozitivez",
-      "root": "C:/Downloads/Bozitivez/Bozitivez-main",
+      "root": "C:/Users/joe/Documents/Bozitivez/Bozitivez-main",
       "status": "ok",
       "files": [
         {
@@ -3444,40 +4368,303 @@
     },
     {
       "repoId": "boswellmike68-bot/LovesfireAI",
-      "root": "C:/Downloads/LovesfireAI/LovesfireAI-main",
+      "root": "C:/Users/joe/CascadeProjects/lovesfire-ai",
       "status": "ok",
       "files": [
         {
-          "relPath": "README.md",
-          "size": 1934,
+          "relPath": "CONTRIBUTING.md",
+          "size": 1504,
           "headings": [
             {
               "level": 1,
-              "text": "LovesfireAI"
+              "text": "Contributing to LovesfireAI"
             },
             {
               "level": 2,
-              "text": "Purpose"
-            },
-            {
-              "level": 2,
-              "text": "System Architecture"
+              "text": "How to Contribute"
             },
             {
               "level": 3,
-              "text": "Architecture Overview"
+              "text": "Reporting Issues"
+            },
+            {
+              "level": 3,
+              "text": "Submitting Changes"
+            },
+            {
+              "level": 3,
+              "text": "Code Style"
             },
             {
               "level": 2,
-              "text": "Repository Structure"
+              "text": "Development Setup"
             },
             {
               "level": 2,
-              "text": "Live Room Integration"
+              "text": "Architecture"
             },
             {
               "level": 2,
-              "text": "Status"
+              "text": "Contact"
+            },
+            {
+              "level": 2,
+              "text": "License"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": true,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "DEPLOYMENT.md",
+          "size": 8046,
+          "headings": [
+            {
+              "level": 1,
+              "text": "Production Deployment Guide - LovesfireAI"
+            },
+            {
+              "level": 2,
+              "text": "CRITICAL: Persistent Storage Setup"
+            },
+            {
+              "level": 2,
+              "text": "Quick Deploy"
+            },
+            {
+              "level": 3,
+              "text": "Step 1: Push to GitHub (Already Done)"
+            },
+            {
+              "level": 3,
+              "text": "Step 2: Create Project on Your Container Host"
+            },
+            {
+              "level": 3,
+              "text": "Step 3: Set Environment Variables"
+            },
+            {
+              "level": 3,
+              "text": "Step 4: Deploy"
+            },
+            {
+              "level": 2,
+              "text": "Get Your Stripe Keys"
+            },
+            {
+              "level": 3,
+              "text": "Test Mode (for staging)"
+            },
+            {
+              "level": 3,
+              "text": "Live Mode (for production)"
+            },
+            {
+              "level": 2,
+              "text": "Post-Deployment Checklist"
+            },
+            {
+              "level": 3,
+              "text": "Test Your Deployment"
+            },
+            {
+              "level": 1,
+              "text": "1. Health check"
+            },
+            {
+              "level": 1,
+              "text": "2. Create API key"
+            },
+            {
+              "level": 1,
+              "text": "3. Test advisory (should work)"
+            },
+            {
+              "level": 1,
+              "text": "4. Check admin revenue"
+            },
+            {
+              "level": 3,
+              "text": "Verify Stripe Webhook"
+            },
+            {
+              "level": 2,
+              "text": "Connect to Frontend"
+            },
+            {
+              "level": 2,
+              "text": "Continuous Deployment"
+            },
+            {
+              "level": 1,
+              "text": "Make changes locally"
+            },
+            {
+              "level": 1,
+              "text": "The deployment platform automatically:"
+            },
+            {
+              "level": 1,
+              "text": "1. Pulls latest code"
+            },
+            {
+              "level": 1,
+              "text": "2. Runs npm install && npm run build"
+            },
+            {
+              "level": 1,
+              "text": "3. Restarts server with zero downtime"
+            },
+            {
+              "level": 2,
+              "text": "Monitoring & Logs"
+            },
+            {
+              "level": 3,
+              "text": "Platform Dashboard"
+            },
+            {
+              "level": 3,
+              "text": "Check Revenue"
+            },
+            {
+              "level": 2,
+              "text": "Database Persistence"
+            },
+            {
+              "level": 2,
+              "text": "Troubleshooting"
+            },
+            {
+              "level": 3,
+              "text": "Server won't start"
+            },
+            {
+              "level": 1,
+              "text": "Check server logs for errors"
+            },
+            {
+              "level": 1,
+              "text": "Common issues:"
+            },
+            {
+              "level": 1,
+              "text": "- Missing environment variables"
+            },
+            {
+              "level": 1,
+              "text": "- TypeScript build errors"
+            },
+            {
+              "level": 1,
+              "text": "- Port binding issues"
+            },
+            {
+              "level": 3,
+              "text": "Stripe webhook not working"
+            },
+            {
+              "level": 1,
+              "text": "1. Verify webhook URL is correct"
+            },
+            {
+              "level": 1,
+              "text": "2. Check STRIPE_WEBHOOK_SECRET matches Stripe dashboard"
+            },
+            {
+              "level": 1,
+              "text": "3. Test with \"Send test webhook\" in Stripe"
+            },
+            {
+              "level": 1,
+              "text": "4. Check server logs for [Stripe] messages"
+            },
+            {
+              "level": 3,
+              "text": "Database not persisting"
+            },
+            {
+              "level": 1,
+              "text": "Ensure DATA_DIR env var points to a persistent volume"
+            },
+            {
+              "level": 1,
+              "text": "Check your deployment platform's volume settings"
+            },
+            {
+              "level": 1,
+              "text": "The volume should be mounted at the DATA_DIR path"
+            },
+            {
+              "level": 2,
+              "text": "Production Optimizations"
+            },
+            {
+              "level": 3,
+              "text": "Add Rate Limiting"
+            },
+            {
+              "level": 3,
+              "text": "Add Request Logging"
+            },
+            {
+              "level": 3,
+              "text": "Add Health Check"
+            },
+            {
+              "level": 2,
+              "text": "Custom Domain"
+            },
+            {
+              "level": 3,
+              "text": "Setup"
+            },
+            {
+              "level": 3,
+              "text": "SSL Certificate"
+            },
+            {
+              "level": 2,
+              "text": "Stripe Production Checklist"
+            },
+            {
+              "level": 2,
+              "text": "Revenue Tracking"
+            },
+            {
+              "level": 3,
+              "text": "Daily Revenue Check"
+            },
+            {
+              "level": 1,
+              "text": "Add to cron job or scheduled task"
+            },
+            {
+              "level": 3,
+              "text": "Top Users"
+            },
+            {
+              "level": 2,
+              "text": "Launch Checklist"
+            },
+            {
+              "level": 2,
+              "text": "You're Live!"
+            },
+            {
+              "level": 2,
+              "text": "Support"
             }
           ],
           "linkCount": 0,
@@ -3487,10 +4674,641 @@
             "hasPolicy": false,
             "hasSecurity": false,
             "hasVersioning": false,
-            "hasArchitecture": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "DRY_RUN_RESULTS.md",
+          "size": 6697,
+          "headings": [
+            {
+              "level": 1,
+              "text": "🧪 Dry-Run Test Results - Programmable Revenue System"
+            },
+            {
+              "level": 2,
+              "text": "Test Sequence"
+            },
+            {
+              "level": 3,
+              "text": "1. Server Startup ✅"
+            },
+            {
+              "level": 3,
+              "text": "2. API Key Creation ✅"
+            },
+            {
+              "level": 3,
+              "text": "3. Initial Balance Check ✅"
+            },
+            {
+              "level": 3,
+              "text": "4. Advisory Call (1 Credit Deduction) ✅"
+            },
+            {
+              "level": 3,
+              "text": "5. Post-Advisory Balance Verification ✅"
+            },
+            {
+              "level": 3,
+              "text": "6. Zero-Credit Key Creation ✅"
+            },
+            {
+              "level": 3,
+              "text": "7. Zero-Credit Render Rejection ✅"
+            },
+            {
+              "level": 2,
+              "text": "Summary"
+            },
+            {
+              "level": 2,
+              "text": "Key Findings"
+            },
+            {
+              "level": 3,
+              "text": "✅ What Works"
+            },
+            {
+              "level": 3,
+              "text": "🎯 Pricing Validation"
+            },
+            {
+              "level": 3,
+              "text": "💰 Revenue Flow Confirmed"
+            },
+            {
+              "level": 2,
+              "text": "Production Readiness Checklist"
+            },
+            {
+              "level": 2,
+              "text": "Next Steps for Production"
+            },
+            {
+              "level": 2,
+              "text": "Conclusion"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "MONETIZATION_SETUP.md",
+          "size": 6001,
+          "headings": [
+            {
+              "level": 1,
+              "text": "💰 Programmable Revenue Setup Guide"
+            },
+            {
+              "level": 2,
+              "text": "🎯 How It Works"
+            },
+            {
+              "level": 2,
+              "text": "🚀 Quick Start"
+            },
+            {
+              "level": 3,
+              "text": "Step 1: Start the Monetized Server"
+            },
+            {
+              "level": 1,
+              "text": "Set environment variables"
+            },
+            {
+              "level": 1,
+              "text": "Run the monetized server"
+            },
+            {
+              "level": 3,
+              "text": "Step 2: Create Your First API Key"
+            },
+            {
+              "level": 3,
+              "text": "Step 3: Test a Render (Costs 5+ Credits)"
+            },
+            {
+              "level": 2,
+              "text": "💳 Stripe Integration"
+            },
+            {
+              "level": 3,
+              "text": "Setup Stripe Webhook"
+            },
+            {
+              "level": 3,
+              "text": "Credit Packages"
+            },
+            {
+              "level": 3,
+              "text": "Purchase Credits (Frontend Flow)"
+            },
+            {
+              "level": 2,
+              "text": "📊 Pricing Logic"
+            },
+            {
+              "level": 3,
+              "text": "Advisory Endpoint"
+            },
+            {
+              "level": 3,
+              "text": "Render Endpoint"
+            },
+            {
+              "level": 2,
+              "text": "🔐 Admin Endpoints"
+            },
+            {
+              "level": 3,
+              "text": "View All API Keys"
+            },
+            {
+              "level": 3,
+              "text": "Check Revenue"
+            },
+            {
+              "level": 2,
+              "text": "🧪 Testing Without Stripe"
+            },
+            {
+              "level": 2,
+              "text": "🔄 Circular Value Loop (The Goal)"
+            },
+            {
+              "level": 2,
+              "text": "📦 Database Schema"
+            },
+            {
+              "level": 3,
+              "text": "API Keys Table"
+            },
+            {
+              "level": 3,
+              "text": "Transactions Table"
+            },
+            {
+              "level": 2,
+              "text": "🚀 Deployment Checklist"
+            },
+            {
+              "level": 2,
+              "text": "💡 Next Steps"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
             "hasContracts": false,
             "hasAudit": false,
-            "hasAccessibility": true,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "README.md",
+          "size": 9605,
+          "headings": [
+            {
+              "level": 1,
+              "text": "LovesfireAI – Cinematic Engine for AI-Generated Vertical Video"
+            },
+            {
+              "level": 2,
+              "text": "Prerequisites"
+            },
+            {
+              "level": 2,
+              "text": "Setup"
+            },
+            {
+              "level": 2,
+              "text": "Run (Development)"
+            },
+            {
+              "level": 2,
+              "text": "Script Language"
+            },
+            {
+              "level": 3,
+              "text": "LUT Presets (Style)"
+            },
+            {
+              "level": 3,
+              "text": "Camera Motion Curves (Motion)"
+            },
+            {
+              "level": 3,
+              "text": "Audio-Reactive Effects"
+            },
+            {
+              "level": 2,
+              "text": "API"
+            },
+            {
+              "level": 3,
+              "text": "`POST /render` — Queue a render"
+            },
+            {
+              "level": 3,
+              "text": "`GET /status/:id` — Poll job status + progress"
+            },
+            {
+              "level": 3,
+              "text": "`GET /download/:id` — Download completed video"
+            },
+            {
+              "level": 3,
+              "text": "`GET /jobs` — Admin: list jobs"
+            },
+            {
+              "level": 3,
+              "text": "`GET /stats` — Admin: queue stats"
+            },
+            {
+              "level": 2,
+              "text": "Environment Variables"
+            },
+            {
+              "level": 2,
+              "text": "Test"
+            },
+            {
+              "level": 1,
+              "text": "Queue a render"
+            },
+            {
+              "level": 1,
+              "text": "Poll status"
+            },
+            {
+              "level": 1,
+              "text": "Download when completed"
+            },
+            {
+              "level": 1,
+              "text": "curl equivalent"
+            },
+            {
+              "level": 2,
+              "text": "Run tests"
+            },
+            {
+              "level": 2,
+              "text": "Programmable Revenue (API Monetization)"
+            },
+            {
+              "level": 3,
+              "text": "Monetized Endpoints"
+            },
+            {
+              "level": 3,
+              "text": "Credit Packages"
+            },
+            {
+              "level": 3,
+              "text": "Run Monetized Server"
+            },
+            {
+              "level": 3,
+              "text": "Additional Environment Variables"
+            },
+            {
+              "level": 2,
+              "text": "Smoke Tests"
+            },
+            {
+              "level": 1,
+              "text": "PowerShell"
+            },
+            {
+              "level": 1,
+              "text": "Bash / CI"
+            },
+            {
+              "level": 2,
+              "text": "Security Checklist"
+            },
+            {
+              "level": 3,
+              "text": "Secrets & Keys"
+            },
+            {
+              "level": 3,
+              "text": "Authentication & Authorization"
+            },
+            {
+              "level": 3,
+              "text": "Data Protection"
+            },
+            {
+              "level": 3,
+              "text": "Network & Transport"
+            },
+            {
+              "level": 3,
+              "text": "Rate Limiting & Abuse (Recommended)"
+            },
+            {
+              "level": 3,
+              "text": "Governance Integrity"
+            },
+            {
+              "level": 3,
+              "text": "Pre-Launch Verification"
+            },
+            {
+              "level": 2,
+              "text": "CI/CD"
+            },
+            {
+              "level": 2,
+              "text": "Contact"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": true,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": true,
+            "hasAccessibility": false,
+            "hasDeterminism": true
+          }
+        },
+        {
+          "relPath": "sponsorship-spec.md",
+          "size": 1602,
+          "headings": [
+            {
+              "level": 1,
+              "text": "LovesfireAI Sponsorship Specification"
+            },
+            {
+              "level": 2,
+              "text": "Overview"
+            },
+            {
+              "level": 2,
+              "text": "About LovesfireAI"
+            },
+            {
+              "level": 2,
+              "text": "Sponsorship Tiers"
+            },
+            {
+              "level": 3,
+              "text": "Bronze Supporter ($25/month)"
+            },
+            {
+              "level": 3,
+              "text": "Silver Sponsor ($100/month)"
+            },
+            {
+              "level": 3,
+              "text": "Gold Sponsor ($500/month)"
+            },
+            {
+              "level": 3,
+              "text": "Platinum Partner ($1000+/month)"
+            },
+            {
+              "level": 2,
+              "text": "Payment Methods"
+            },
+            {
+              "level": 2,
+              "text": "Contact"
+            },
+            {
+              "level": 2,
+              "text": "Financial Contact"
+            },
+            {
+              "level": 2,
+              "text": "Acknowledgments"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": false,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": false,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
+            "hasDeterminism": false
+          }
+        },
+        {
+          "relPath": "TEST_COMMANDS.md",
+          "size": 8232,
+          "headings": [
+            {
+              "level": 1,
+              "text": "🧪 LovesfireAI Monetization Test Commands"
+            },
+            {
+              "level": 2,
+              "text": "🔑 Create API Key"
+            },
+            {
+              "level": 3,
+              "text": "PowerShell"
+            },
+            {
+              "level": 3,
+              "text": "curl (Windows)"
+            },
+            {
+              "level": 3,
+              "text": "curl (Linux/Mac)"
+            },
+            {
+              "level": 2,
+              "text": "💳 Check Credit Balance"
+            },
+            {
+              "level": 3,
+              "text": "PowerShell"
+            },
+            {
+              "level": 3,
+              "text": "curl"
+            },
+            {
+              "level": 2,
+              "text": "🎬 Test Advisory (Costs 1 Credit)"
+            },
+            {
+              "level": 3,
+              "text": "PowerShell"
+            },
+            {
+              "level": 3,
+              "text": "curl"
+            },
+            {
+              "level": 2,
+              "text": "🎥 Test Render (Costs 5+ Credits)"
+            },
+            {
+              "level": 3,
+              "text": "PowerShell"
+            },
+            {
+              "level": 3,
+              "text": "curl"
+            },
+            {
+              "level": 2,
+              "text": "💰 Purchase Credits (Mock Mode)"
+            },
+            {
+              "level": 3,
+              "text": "PowerShell"
+            },
+            {
+              "level": 3,
+              "text": "curl"
+            },
+            {
+              "level": 2,
+              "text": "📊 View Pricing"
+            },
+            {
+              "level": 3,
+              "text": "PowerShell"
+            },
+            {
+              "level": 3,
+              "text": "curl"
+            },
+            {
+              "level": 2,
+              "text": "🔐 Admin: List All API Keys"
+            },
+            {
+              "level": 3,
+              "text": "PowerShell"
+            },
+            {
+              "level": 3,
+              "text": "curl"
+            },
+            {
+              "level": 2,
+              "text": "💵 Admin: Check Revenue"
+            },
+            {
+              "level": 3,
+              "text": "PowerShell"
+            },
+            {
+              "level": 3,
+              "text": "curl"
+            },
+            {
+              "level": 2,
+              "text": "🚀 Full Test Flow"
+            },
+            {
+              "level": 1,
+              "text": "1. Start the monetized server"
+            },
+            {
+              "level": 1,
+              "text": "2. Create API key"
+            },
+            {
+              "level": 1,
+              "text": "3. Check balance"
+            },
+            {
+              "level": 1,
+              "text": "4. Test advisory (1 credit)"
+            },
+            {
+              "level": 1,
+              "text": "5. Test render (7 credits)"
+            },
+            {
+              "level": 1,
+              "text": "6. Check remaining balance"
+            },
+            {
+              "level": 1,
+              "text": "Should show: balance = 12 (20 - 1 - 7)"
+            },
+            {
+              "level": 2,
+              "text": "🐛 Test Error Cases"
+            },
+            {
+              "level": 3,
+              "text": "Insufficient Credits"
+            },
+            {
+              "level": 1,
+              "text": "Create key with only 1 credit"
+            },
+            {
+              "level": 1,
+              "text": "Try to render (costs 7 credits) - should fail with 402"
+            },
+            {
+              "level": 3,
+              "text": "Invalid API Key"
+            },
+            {
+              "level": 3,
+              "text": "Missing Authorization Header"
+            },
+            {
+              "level": 2,
+              "text": "📝 Environment Variables"
+            }
+          ],
+          "linkCount": 0,
+          "signals": {
+            "hasGovernance": true,
+            "hasConstitution": false,
+            "hasPolicy": false,
+            "hasSecurity": false,
+            "hasVersioning": true,
+            "hasArchitecture": false,
+            "hasContracts": false,
+            "hasAudit": false,
+            "hasAccessibility": false,
             "hasDeterminism": false
           }
         }
